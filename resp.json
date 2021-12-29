@@ -1,0 +1,4081 @@
+[
+  {
+    "id": "8ccba6e0-df7c-4fd9-9afd-8667ef66f493",
+    "status": "published",
+    "title": "Senior Software Engineer (Placement : Batu Kajang)",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 0,
+    "salary_max": 0,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<p><strong>Job Descriptions:</strong></p>\n<ul><li>Develop application and existing programs by analyzing and identifying areas for modification as per request by client\u00a0</li>\n  <li>Support client operational activities\u00a0</li>\n  <li>Write and test code\u00a0</li>\n  <li>Refining and rewriting it as necessary and communicate with any programmers involved in the project research \u00a0</li>\n  <li>Design and write new software programs (e.g. business applications or computer games) and computer operating systems\u00a0</li>\n  <li>Evaluate the software and systems <br></li>\n</ul>\n\n<p><strong>Requirements:\u00a0</strong></p>\n<ul><li>Bachelor degree of Computer Science, Information System, or Informatic Engineering</li>\n  <li>Min. 2 year experience in the related field.\u00a0</li>\n  <li>Preferably experienced with Java Programming Language (Spring Boot framework), Laravel, JavaScript (ReactJS)</li>\n  <li>Familiar with .Net (C#, .Net Core)</li>\n  <li>Familiar with SQL Server / Postgre SQL\u00a0</li>\n  <li>Familiar with API, micro service and container</li>\n</ul>\n\n<p>Placement location in <strong>Batu Kajang, Kalimantan Timur, Indonesia\u00a0</strong></p>\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 01:53:40",
+    "updated_at": "2021-12-29 03:03:29",
+    "expires_at": "2022-02-27 01:53:40",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "0022636b-3eb2-4b3c-be8c-19802e68db8b",
+      "name": "Indonesia Bulk Terminal",
+      "locode": "ID IBT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "17f69a5a-72c8-4a34-9f60-3627272c0eb8",
+        "name": "Kalimantan Selatan",
+        "subdiv_code": "KS"
+      }
+    },
+    "company": {
+      "id": "3ed78978-182b-4e20-9d8a-54fb97cf5166",
+      "name": "PT Xapiens Teknologi Indonesia",
+      "date_founded": null,
+      "is_folded": false,
+      "employee_min_count": 51,
+      "employee_max_count": 200,
+      "pitch": "Xapiens is a full-service Information, Communications, and Technology (ICT) company. \n\nWith over a decade of experience in serving top tier companies, we offer a variety of solutions and services designed to add value at both user and enterprise levels.",
+      "culture": "<p><strong>/WE ARE HUMAN TECHNOLOGY/</strong></p>\n<p>At PT Xapiens Teknologi Indonesia, we are collaborative, innovative, open, driven, and fast-paced.<br></p>\n<p><u><strong>What Xapiens Do? and What We Care About?</strong></u></p>\n<ul><li>We are obsessed with CLIENT SERVICE: \u00a0What matters to our Clients, matters the most to us.</li>\n  <li>We aim all our efforts at the Client\u2019s \u00a0BUSINESS IMPACT, USER EXPERIENCE, and SPEED: Bigger, Better, Faster.\u00a0</li>\n  <li>We do amazing things when we WORK TOGETHER.</li>\n  <li>We NEVER SETTLE in making ourselves and our services better by learning and innovating every day.</li>\n  <li>We love HAVING FUN and SHARING OUR JOYS with others.</li>\n</ul>\n\n<p><br></p>\n<p><strong>Benefits and perks of working with us include:</strong></p>\n<ul><li><strong>Compensation: </strong>Competitive salaries, Bonuses\u00a0</li>\n  <li><strong>Family benefits: </strong>Paid maternity/paternity leave,\u00a0</li>\n  <li><strong>Lifestyle:</strong> Casual dress code, Company outings, Work-from-home,\u00a0</li>\n  <li><strong>Progression:</strong> Professional development</li>\n  <li><strong>Welfare:</strong> Dental insurance, Health insurance.\u00a0</li>\n</ul>",
+      "description": null,
+      "business_models": [],
+      "entity": {
+        "id": "4c8e9dcf-5069-441e-9dbd-8bd833366f37",
+        "entityable_type": "company",
+        "entityable_id": "3ed78978-182b-4e20-9d8a-54fb97cf5166",
+        "slug": "pt-xapiens-teknologi-indonesia",
+        "claimed": 1,
+        "images": [
+          {
+            "id": "147c7ea3-147b-4df2-987a-69e3e90045ae",
+            "url": "https://cdn.techinasia.com/data/images/mVz0W1fkW5dmHFGSS59Tpe9wj4t6n90eNdUtacZi.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "29319413-9522-4ef8-aba4-274a96a0670c",
+            "url": "https://cdn.techinasia.com/data/images/WV6Cillmkz2xYhMm9ExAUR0MJ3u0hlFWUE38RhKj.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "3a45bec7-f622-4dad-9099-049ea5c777c2",
+            "url": "https://cdn.techinasia.com/data/images/CqcyJP77xYqXr4c2UZP21D06B8Iuyyr0aMFAb403.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "3f2d6b6f-2e7e-46a2-895e-6a71f11aaa66",
+            "url": "https://cdn.techinasia.com/data/images/QYo4UPexNuvPFUg41J0g9KYis9PedGgABO8EEF5J.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "559c2f84-4ef8-459d-86b3-c62c1a2af11b",
+            "url": "https://cdn.techinasia.com/data/images/pXJuv9dIAhbiXWcBvO9uhdldmbQaWhE09VF6AgmS.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "a660e809-e3b4-4d09-8026-ef15e41be304",
+            "url": "https://cdn.techinasia.com/data/images/P8AKkWpqFbFLChuNJUYv5y8bHO3LNLLUNWnT5ZQ4.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "a69885c3-093b-405d-87b7-19d993d9049f",
+            "url": "https://cdn.techinasia.com/data/images/u4vTdrHjXtgHtKLNk9HgFWYJzv8WmzURUQZYGmWY.png",
+            "type": "avatar"
+          },
+          {
+            "id": "b9a1fc44-da76-434e-b5fb-2bff1f0fbb71",
+            "url": "https://cdn.techinasia.com/data/images/hqFNXjmuXNiv3C2GleN6XW0lJTVQh0rTWt7jSujO.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "d9bbfba0-8115-410d-829b-986599c852d9",
+            "url": "https://cdn.techinasia.com/data/images/jPHcwBIOu4F3WREZohYpGny2MnUkBnLjD0pR21TG.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "e11d854f-0f82-4bc4-a09e-864fd463acbb",
+            "url": "https://cdn.techinasia.com/data/images/T1gkBmzElApBLRcidxyHbuavm4WRl1AUYAfimSpd.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "e3c12bc1-781d-4d0e-91a8-ee6fd2ddab24",
+            "url": "https://cdn.techinasia.com/data/images/XvLT3RFpbF4KIkoMbiBuwv8G2CLZvbvPoEYcOxBz.jpeg",
+            "type": "photo"
+          }
+        ],
+        "industries": [
+          {
+            "id": "54c361d2-1cc2-4472-b73b-b8f603b81777",
+            "name": "IT & Cybersecurity",
+            "slug": "it-and-cybersecurity",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "7cd5b784-c600-4640-a29f-ce2d38dd25be",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "38e0799b-9958-4eea-9f77-139c59d30de2",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "http://www.linkedin.com/company/xapiens-teknologi-indonesia"
+          },
+          {
+            "id": "d0d4071f-0ec7-4e11-80e6-7f39808cae3a",
+            "site": {
+              "id": "a328a36d-81f4-47f1-9d17-c63c4c911ff4",
+              "name": "Instagram",
+              "company_order": 13,
+              "order": 4,
+              "prefix": "www.instagram.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.instagram.com/xapiens_tech"
+          },
+          {
+            "id": "19b798e5-7338-4211-bee3-ccedfe3fa7e5",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "http://www.xapiens.id"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      { "id": "0295cdb7-c4a1-4bf2-bd39-a01e253fab73", "name": "React.js" },
+      { "id": "3161951f-619a-4522-a50e-109e5d2174e6", "name": "Laravel" },
+      { "id": "4c6c67e6-c6c9-41d0-8677-ea990425fbc2", "name": "SQL Server" },
+      { "id": "950d5136-0ea9-4579-97b1-c0e725a450c1", "name": "PostgreSQL" },
+      { "id": "97650915-c512-48eb-ae98-4129e4097ab0", "name": ".NET" }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "52698ef2-bfb6-4f8b-9eb0-fc2404f84ddd",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Web Development jobs here!",
+      "keywords": "web developer jobs, front end developer jobs, front end web developer jobs, web development jobs in startups, web development career, php developer jobs, frontend developer jobs, developer jobs, web engineer jobs, engineering jobs",
+      "name": "Web Development"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "50df450b-cb58-4277-81af-a622795256c5",
+    "status": "published",
+    "title": "Finance & Accounting staff",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 3000000,
+    "salary_max": 5000000,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 0,
+    "experience_max": 1,
+    "description": "<p>Job Descriptions :</p>\n<p>1. Reconcile all company financial transactions.</p>\n<p>2. Team up with other Department to gather any information needed for reconciliation.</p>\n<p>3. Assist Accounting Manager to meet all reporting and compliance, both internal and external reports.</p>\n<p>4. Conduct tax review for company withholding tax.</p>\n<p>5. Support providing any needed document for audit.</p>\n<p>6. Involve on company project team in developing company's business.</p>\n<p>7. Other administration things</p>\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 03:52:41",
+    "updated_at": "2021-12-29 03:57:25",
+    "expires_at": "2022-02-27 03:52:41",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "c004511c-869d-425c-b7ae-ad2186d32c4f",
+      "name": "Denpasar, Bali",
+      "locode": "ID DPS",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "840219b7-297e-48b2-8ba1-e6cd4ad18e48",
+        "name": "Bali",
+        "subdiv_code": "BA"
+      }
+    },
+    "company": {
+      "id": "ec3cc788-7a6e-4beb-986c-6d14a0ce5a44",
+      "name": "PT. YUKK Kreasi Indonesia",
+      "date_founded": null,
+      "is_folded": false,
+      "employee_min_count": 51,
+      "employee_max_count": 200,
+      "pitch": "YUKK Adalah Aplikasi Yang Membawa Revolusi Dalam Industri Ritel, Kami Adalah Aggregator Promosi Yang Berfokus Untuk Menciptakan Ekosistem Omnichannel Dengan Mengintegrasikan Dunia Fisik Dan Digital Dengan Menggunakan Teknologi IOT Dan Augmented Reality (AR)",
+      "culture": "\n    <p>At PT. YUKK Kreasi Indonesia, we are adaptable, innovative, fast paced, energetic and collaborative.</p>\n\n    <p><b>Benefits and perks of working with us include:</b></p>\n\n    <p><b>Compensation:</b> Competitive salaries<br><b>Lifestyle:</b> Casual dress code, Work-from-home<br><b>Progression:</b> Professional development<br><b>Welfare:</b> Health insurance, Vacation time<br></p>\n\n    \n  ",
+      "description": null,
+      "business_models": [],
+      "entity": {
+        "id": "b4ae08bd-bba9-4463-970c-d176244c55f6",
+        "entityable_type": "company",
+        "entityable_id": "ec3cc788-7a6e-4beb-986c-6d14a0ce5a44",
+        "slug": "pt-yukk-kreasi-indonesia-1",
+        "claimed": 3,
+        "images": [
+          {
+            "id": "65167e00-2bd2-4b97-b8cb-1d7f9d903b2c",
+            "url": "https://cdn.techinasia.com/data/images/fYEgz4TLYGVtLyCjpRL1WAwlCnc1cvdLSQ3UhUqZ.png",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "33261a18-479d-426f-8788-684f1c3b0146",
+            "name": "Internet Technology",
+            "slug": "internet-technology",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "533e77bd-34f5-4da8-b7d8-4073603102a9",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "f7e14583-0a8e-4f3b-ba81-a4c30dda0959",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/in/yukkkreasiindonesia/"
+          },
+          {
+            "id": "38d3b596-3cdd-4ebb-ad88-ce07821a0dff",
+            "site": {
+              "id": "19d9d2e7-0d32-471e-b934-a059d95a0262",
+              "name": "Facebook",
+              "company_order": 2,
+              "order": 2,
+              "prefix": "www.facebook.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.facebook.com/yukkindonesia/"
+          },
+          {
+            "id": "858cd897-0630-4518-aac3-72ff30d67c64",
+            "site": {
+              "id": "20cafb7e-3aef-4a87-a2d3-ed4ca39e25ee",
+              "name": "Twitter",
+              "company_order": 4,
+              "order": 3,
+              "prefix": "twitter.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://twitter.com/yukk_id"
+          },
+          {
+            "id": "7affc269-78ff-4df4-90c0-8dc891ac22b4",
+            "site": {
+              "id": "a328a36d-81f4-47f1-9d17-c63c4c911ff4",
+              "name": "Instagram",
+              "company_order": 13,
+              "order": 4,
+              "prefix": "www.instagram.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.instagram.com/yukk_id/"
+          },
+          {
+            "id": "b3ede62b-d1ed-4532-b350-6f082be1e3f7",
+            "site": {
+              "id": "65817c4c-c1c1-4d76-a176-96c682e30234",
+              "name": "Android App",
+              "company_order": 10,
+              "order": 14,
+              "prefix": "play.google.com/store/apps/",
+              "is_prefix_editable": true
+            },
+            "url": "https://play.google.com/store/apps/details?id=com.teltics.yukkers.android"
+          },
+          {
+            "id": "2fd6627e-ddad-4d73-843f-68c24bed8e74",
+            "site": {
+              "id": "66537289-c601-4a7b-9c03-43702c653bb9",
+              "name": "iOS App",
+              "company_order": 8,
+              "order": 15,
+              "prefix": "itunes.apple.com/",
+              "is_prefix_editable": true
+            },
+            "url": "https://apps.apple.com/id/app/yukkers/id1338653047"
+          },
+          {
+            "id": "7331f4e2-151e-41a0-8c57-d896750c414e",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://yukk.co.id"
+          },
+          {
+            "id": "aaf077d5-75ea-4699-a7b1-9785c488a1a1",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://yukk.co.id"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      { "id": "28e96523-6b14-4b1a-af14-25feb91f8cbd", "name": "Accounting" },
+      {
+        "id": "3131d3ab-c875-4346-98bc-f9e6bbe8e4df",
+        "name": "Accounts Payable"
+      },
+      {
+        "id": "329a150d-4489-4274-802d-1c108f001982",
+        "name": "Account Management"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "2485f8e0-68c6-49ab-92bd-1a692a9557ef",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Finance, Legal & Accounting jobs here!",
+      "keywords": "Finance jobs in startups, Legal jobs in startups, Accounting jobs in startups, Finance job description, Legal job description, Accounting job description, Finance jobs in Asia, Legal jobs in Asia, Accounting jobs in asia, Finance jobs in start ups, Legal jobs in start ups, Account jobs in start ups finance careers",
+      "name": "Finance, Legal & Accounting"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "d1c9a536-b44a-49ed-a1f2-3932b529ed8d",
+    "status": "published",
+    "title": "Business Development Executive (Medan)",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 0,
+    "salary_max": 0,
+    "has_equity": false,
+    "vacancy_count": 5,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<p><strong>Requirements:</strong></p>\n<p>\u2022 Bachelor's Degree or equivalent experience related</p>\n<p>\u2022 Strong business acumen in project planning, business development and management</p>\n<p>\u2022 Strong verbal, written, and organizational skills</p>\n<p>\u2022 Fluent in spoken and written English</p>\n<p>\u2022 Good communication and interpersonal skills</p>\n<p>\u2022 Self-driven and collaborative team player</p>\n<p>\u2022 Adaptive - Ability to work with people at all levels, especially C-Level</p>\n<p>\u2022 Ability to meet tight deadlines and handle simultaneous work streams</p>\n<p>\u2022 Can do attitude/mindset</p>\n<p><strong>Responsibilities:</strong></p>\n<p>\u2022 Achieve target per month</p>\n<p>\u2022 <strong>Seek out and source new clients</strong> by developing networks and independently identifying and</p>\n<p>developing relevant resources for sales and business development.</p>\n<p>\u2022 Sell Waresix product service experiences in core content area related to company\u2019s focus</p>\n<p>industries.</p>\n<p>\u2022 Meet the targeted sales number with positive accountreceivable rate as KPI.</p>\n<p>\u2022 Collaborate with members of the team to ensure an excellent client experience across all client interactions from needs assessment through delivery and project follow up.</p>\n<p>\u2022 Work collaboratively with the Marketing Team and Vendor Team to develop creative outreach strategies to attract and retain clients.</p>\n<p>\u2022 Work towards sales and revenue goals asestablished inpartnership with the leaderships.</p>\n<p>\u2022 Over time, as the team grows, manage team in marketing and/or sales functions for the selling achievement, performance, and development.</p>\n<p>\u2022 Developing report for Department Head regarding sales dashboard and project progress.</p>\n<p>\u2022 Perform any other duties as assigned by the designated supervisor from time to time.</p>\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 02:33:52",
+    "updated_at": "2021-12-29 03:00:22",
+    "expires_at": "2022-02-27 02:33:52",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "92aff5ae-dc48-48e5-989b-7a420fc59cb9",
+      "name": "Medan, Sumatra",
+      "locode": "ID MES",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": null
+    },
+    "company": {
+      "id": "a33882ec-1231-4ee1-8f54-20097d4ec2b2",
+      "name": "Waresix",
+      "date_founded": "2017-01-01",
+      "is_folded": false,
+      "employee_min_count": 201,
+      "employee_max_count": 500,
+      "pitch": "Waresix is focused on optimizing logistics by making the process more transparent for clients and more efficient for haulage companies and truckers. Provide a one-stop solution for transportation by land or sea, as well as cold storage and general cargo handling.\n\nWaresix connects shippers and businesses with available warehouses and trucks across Indonesia.",
+      "culture": "<p><strong>Waresix.com</strong> is a tech startup building on-demand warehousing. We are one of the fastest growing companies in Indonesia, with expanding operations and relationships throughout Indonesia. Serving companies of all sizes, Waresix makes their business better than others.</p>\n<p>We offer enormous opportunities for employees to explore themselves. This is a great place to build careers and be part of an innovative and creative team. \u00a0A dynamic and tech-driven company where we can work happily, passionately, and grow incredibly.</p>\n<p><br></p>",
+      "description": "Waresix connects shippers and businesses with available warehouses and trucks across Indonesia, providing better transparency, quality of service, and improved incomes for asset owners.",
+      "business_models": [],
+      "entity": {
+        "id": "080fdcc4-7739-4410-84c3-9447fd772ebd",
+        "entityable_type": "company",
+        "entityable_id": "a33882ec-1231-4ee1-8f54-20097d4ec2b2",
+        "slug": "waresix",
+        "claimed": 6,
+        "images": [
+          {
+            "id": "40ff45fe-6809-4674-b506-5fdc96ef9869",
+            "url": "https://cdn.techinasia.com/data/images/BR4VVOczt9tatgeezSXK6OW9vKtibIObpWugY2Tp.jpeg",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "7fea165a-40cd-4513-93ff-e38afc256a41",
+            "name": "Logistics",
+            "slug": "logistics-2",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "3f144df0-93b0-4b5f-a9b4-56c7db8b2539",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "5cdc9cd1-9f03-40e2-b26f-e183a9b708d9",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/company/waresix"
+          },
+          {
+            "id": "8d24a086-5a28-4c9f-8b7c-9d771712144f",
+            "site": {
+              "id": "20cafb7e-3aef-4a87-a2d3-ed4ca39e25ee",
+              "name": "Twitter",
+              "company_order": 4,
+              "order": 3,
+              "prefix": "twitter.com/",
+              "is_prefix_editable": false
+            },
+            "url": "https://twitter.com/waresix"
+          },
+          {
+            "id": "bb9ccf40-7787-4ceb-9e25-a1ba64ce0612",
+            "site": {
+              "id": "a328a36d-81f4-47f1-9d17-c63c4c911ff4",
+              "name": "Instagram",
+              "company_order": 13,
+              "order": 4,
+              "prefix": "www.instagram.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.instagram.com/waresix.id"
+          },
+          {
+            "id": "6a688e0b-a697-4e3b-868d-4a6ad14b3522",
+            "site": {
+              "id": "22d7ce29-c645-4a1d-a401-ef55e717e6d5",
+              "name": "CrunchBase",
+              "company_order": 5,
+              "order": 8,
+              "prefix": "www.crunchbase.com/person/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.crunchbase.com/organization/waresix"
+          },
+          {
+            "id": "e86a4531-ae4e-4a35-8551-47090deb5248",
+            "site": {
+              "id": "5a0d6262-8837-464f-af79-83b6acbf7a31",
+              "name": "Video",
+              "company_order": 14,
+              "order": 12,
+              "prefix": "youtube.com/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.youtube.com/watch?v=2UzQ4fLr87c"
+          },
+          {
+            "id": "1ceeaa99-4236-49ce-91b8-c699d6bf70d2",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.waresix.com"
+          },
+          {
+            "id": "b90c1650-1afe-4962-93b8-00a3cb3a2be6",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://waresix.com"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "8cee9310-a380-4d4d-ac76-a612cdb49e81",
+        "name": "Business Development"
+      },
+      {
+        "id": "a97525d2-3ce2-47d8-95d5-4c582d14bf0d",
+        "name": "Public Speaking & Presentations"
+      },
+      {
+        "id": "c93e386c-260a-41e1-aacb-b4772ffe54b5",
+        "name": "Communication Skills"
+      },
+      {
+        "id": "f6ce96f7-3b51-4867-bab4-5a50aabc4a8c",
+        "name": "Sales & Marketing"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "8f7f42f6-34c6-4dbe-a571-a0489d500bc0",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Sales & Business Development jobs here!",
+      "keywords": "sales & business development jobs, business development jobs in startups, sales job salary, business development job description, sales jobs in asia, business development jobs in start ups, sales & business development careers, hiring sales & business development roles, business development jobs asia, startup sales & business development jobs",
+      "name": "Sales & Business Development"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "cb8604cb-bb7a-4867-ab96-81cb9c3ca8f7",
+    "status": "published",
+    "title": "Corporate Communication Officer (Remote)",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 0,
+    "salary_max": 0,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<p>We are looking for a Corporate Communications Officer who is responsible for creating and promoting internal and external communications contents on behalf of Flip with different target audiences to bolster and safeguard company's reputation.\u00a0</p>\n<p><br></p>\n<p><strong>About Flip</strong><br>\nFlip helps people send money securely with the best experience in Indonesia. Individual users are able to use Flip to send money across 88 banks in Indonesia with zero cost. Meanwhile, business users can send money swiftly, securely, and at a lower cost to more than 100 banks across Indonesia.<br></p>\n<p>At Flip, we value fairness. We believe that we have to treat employees, customers, and all stakeholders fairly and respectfully. Fair treatment for employees means we establish clear goals, facilitate our employees to achieve them, and value their contribution to the company with equitable benefits.</p>\n<p><br></p>\n<p><strong>What you'll do:</strong></p>\n<ul><li>Working with cross department to develop, write, edit, and distribute communications materials, including press release, feature article, correspondence, stand-by statements, and social media contents as required</li>\n  <li>Manage day-to-day media relations and media inquiries as well as cultivate relationship with key corporate affairs influencers\u00a0</li>\n  <li>Collaborate with other stakeholders to execute public relations events, including press briefing, workshop, gathering, and other corporate events</li>\n  <li>Develop talking points and presentation for speaking engagement purposes</li>\n  <li>Monitor various types of media channels regarding brand and corporate issues and other relevant topics</li>\n</ul>\n\n<p><br></p>\n<p><strong>What you'll need:</strong></p>\n<ul><li>A minimum of a Bachelor\u2019s degree from a top university</li>\n  <li>Min. 1 year of professional experience in a communications role</li>\n  <li>Excellent written and verbal communications skills both in Bahasa Indonesia and English</li>\n  <li>High attention to details and accuracy</li>\n  <li>Good creative skills\u00a0</li>\n  <li>Having experience in media relations</li>\n  <li>Great interpersonal skills to interact effectively with internal and external stakeholders</li>\n</ul>\n\n<p><br></p>",
+    "external_link": "https://career.flip.id/jobs/zwjZH8FE7A3e/corporate-communication-officer",
+    "published_at": "2021-12-29 04:55:22",
+    "updated_at": "2021-12-29 04:55:22",
+    "expires_at": "2022-02-27 04:55:22",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+      "name": "Jakarta",
+      "locode": "ID JKT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "0915085d-5c74-4ed6-913f-c835252dd587",
+        "name": "Jakarta Raya",
+        "subdiv_code": "JK"
+      }
+    },
+    "company": {
+      "id": "b5699f39-8dc8-4fe1-b380-6fa52ad8058a",
+      "name": "Flip",
+      "date_founded": "2015-01-01",
+      "is_folded": false,
+      "employee_min_count": 201,
+      "employee_max_count": 500,
+      "pitch": "Flip lets users transfer funds between different banks in Indonesia without any cost.",
+      "culture": "<p><strong>We strive to be the fairest company in the world.</strong></p>\n<p>Yes! At Flip, we value <strong>fairness</strong>. We believe that we have to treat employees, customers, and all stakeholders fairly and respectfully. Fair treatment for employees means we establish clear goals, facilitate our employees to achieve them, and value their contribution to the company with equitable benefits.</p>\n<p><strong>Exciting time awaits!</strong></p>\n<p>We face new and exciting challenges every day and need your help to solve them. Join our fun, honest, reliable, and love-able team and let's build the fairest financial company in the world!</p>\n<p>What do you say?</p>\n<p><br></p>",
+      "description": "Flip lets users transfer funds between different banks in Indonesia without any cost.",
+      "business_models": [],
+      "entity": {
+        "id": "5a09f797-7469-4584-9f54-56e7a4ad720c",
+        "entityable_type": "company",
+        "entityable_id": "b5699f39-8dc8-4fe1-b380-6fa52ad8058a",
+        "slug": "flip-1",
+        "claimed": 3,
+        "images": [
+          {
+            "id": "531f33cb-a0d4-4e93-8adb-983e8afa2996",
+            "url": "https://cdn.techinasia.com/data/images/Ngg8CSIGjcYcpGt1aa8zIA4Nh8BwYIWDUffloIiQ.png",
+            "type": "avatar"
+          },
+          {
+            "id": "7eef4c9c-becd-42e5-bb4a-8fc9e957b3d4",
+            "url": "https://cdn.techinasia.com/data/images/pbwJ2LlQHJbhx3kTTHTKsreyOEuJIAlhJQbRCwbU.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "801b9b2a-9f6d-40c7-8d8a-d28536797a89",
+            "url": "https://cdn.techinasia.com/data/images/gFeayTRWufkigZ6sTHQK8ZAwk3z7ggEfIWwUdFXi.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "87d4fda7-2260-443b-a7bf-e73058ab8563",
+            "url": "https://cdn.techinasia.com/data/images/J0oLfgD8sIClOfhYzmYcPTTT66frdPpcNfV12YpL.png",
+            "type": "photo"
+          }
+        ],
+        "industries": [
+          {
+            "id": "1e591e72-606b-4035-9c31-c426b0836437",
+            "name": "Payments and remittance",
+            "slug": "mobile-payments",
+            "description": "Businesses which facilitate transactions between consumers and other consumers."
+          }
+        ],
+        "locations": [
+          {
+            "id": "c973b2a9-4e61-455e-bdf7-319fc952e618",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "26d5de44-a120-41f7-9b35-f2b436fd318e",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/company/flip.id/"
+          },
+          {
+            "id": "db01a2a3-6d23-4035-960d-992b0dda17d4",
+            "site": {
+              "id": "19d9d2e7-0d32-471e-b934-a059d95a0262",
+              "name": "Facebook",
+              "company_order": 2,
+              "order": 2,
+              "prefix": "www.facebook.com/",
+              "is_prefix_editable": false
+            },
+            "url": "https://www.facebook.com/HaiFlip/"
+          },
+          {
+            "id": "0d136d7e-8943-4435-9190-239e561327ac",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://flip.id"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "f22d04b4-23d6-42fd-b0ad-255a491b08f3",
+        "name": "Marketing Communications"
+      },
+      {
+        "id": "0bb65880-73ef-4f35-859e-57327f8988f0",
+        "name": "Marketing Strategy"
+      },
+      { "id": "d8f72567-4cec-4afb-a353-7441b0182787", "name": "Marketing" },
+      {
+        "id": "2664bebe-1660-4309-bfbb-ee91edf3cafc",
+        "name": "Public Relations"
+      },
+      {
+        "id": "a97525d2-3ce2-47d8-95d5-4c582d14bf0d",
+        "name": "Public Speaking & Presentations"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "8ba29919-9179-4981-8570-ab185d14f915",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Marketing & PR jobs here!",
+      "keywords": "digital marketing jobs, marketing manager jobs, social media marketing startups, Marketing & PR jobs, Marketing jobs in startups, Marketing & PR jobs salary, Marketing & PR job description, Marketing & PR jobs in asia, Marketing & PR jobs in start ups, Marketing & PR careers, hiring Marketing & PR roles, Marketing & PR jobs asia, startup Marketing & PR jobs",
+      "name": "Marketing & PR"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "f1b1888d-78ba-4279-b3d2-853d6344a3b1",
+    "status": "published",
+    "title": "Digital Marketing Manager",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 1,
+    "salary_max": 2,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 4,
+    "experience_max": 7,
+    "description": "<p><strong>Responsibilities:</strong></p>\n<ul><li>Leverage sales from digital channel</li>\n  <li>Responsible to increase brand awareness</li>\n</ul>\n\n<p><br></p>\n<p><strong>Key Duties:</strong></p>\n<ul><li>Manage and post core business-related content on social media platforms</li>\n  <li>Develop strategies that drive customers to the website</li>\n  <li>Improve the design, UX, traffic, and content of the website</li>\n  <li>Create paid campaigns on social media platforms</li>\n  <li>Maintain consistent brand messaging and awareness throughout all platforms</li>\n  <li>Create email marketing to target key customers</li>\n  <li>Use advanced metrics to measure the success of a marketing campaign</li>\n  <li>Identify the latest social media trends</li>\n</ul>\n\n<p><br></p>\n<p><strong>Requirement &amp; Qualifications:</strong></p>\n<ul><li>4 years of experience in Digital Marketing</li>\n  <li>Bachelor\u2019s degree in Marketing/Management/Communication is required</li>\n  <li>Extensive knowledge and proven experience in converting social media traffic into revenue and marketing campaign</li>\n  <li>Excellent in operating Google Ads and Analytics, as well as other social media ads tools</li>\n  <li>Strong people management skills, with a collaborative mindset</li>\n  <li>Exceptional communication and interpersonal abilities</li>\n  <li>Excellent problem-solving abilities</li>\n  <li>Ability to thrive in a fast-paced and results-oriented environment</li>\n  <li>Fluent in English</li>\n  <li>Willing to be placed in Jakarta (70% WFO from our Head Office)</li>\n</ul>",
+    "external_link": "",
+    "published_at": "2021-12-28 12:54:25",
+    "updated_at": "2021-12-28 12:54:25",
+    "expires_at": "2022-02-26 12:54:25",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+      "name": "Jakarta",
+      "locode": "ID JKT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "0915085d-5c74-4ed6-913f-c835252dd587",
+        "name": "Jakarta Raya",
+        "subdiv_code": "JK"
+      }
+    },
+    "company": {
+      "id": "b77b72ce-5ddc-45ab-8ce3-06c3fc335f20",
+      "name": "Klinik Pintar",
+      "date_founded": "2019-01-01",
+      "is_folded": false,
+      "employee_min_count": 11,
+      "employee_max_count": 50,
+      "pitch": "Klinik Pintar is an Indonesia-based health tech startup that helps its users book teleconsultations, virtual health services, as well as in-clinic sessions.",
+      "culture": "<p>At Klinik Pintar, we love to innovative, collaborative and passionate to produce helpful health technology and care services.</p>\n<p>...</p>\n<p><strong>Benefits:</strong></p>\n<ul><li><strong>Compensation:</strong> Competitive monthly salary with overtime pay, Religious Holiday Allowance</li>\n  <li><strong>Family:</strong> Paid maternity and paternity leave</li>\n  <li><strong>Lifestyle:</strong> Fully remote working (WFH), Collaborative, google suites work environment</li>\n  <li><strong>Progression:</strong> Professional development support for tools and courses</li>\n  <li><strong>Health: </strong>Paid sick days, health reimbursement system and BPJS coverage, free Manage care services, Free tele-consultation with medical doctor, and special discounts in every health services provided by Klinik Pintar\u00a0</li>\n</ul>\n\n<p>...</p>\n<p><strong>Our \"H-E-L-P\" Culture:</strong></p>\n<ul><li><strong>Honest: </strong>There will be always things that need improvement, but so many things that are done well. We encourage everyone to honest convey both, good things as appreciation and bad things as input.</li>\n  <li><strong>Empathic:</strong> We believe, every great product built with deep understanding for all the stakeholders. Yes, we're talking about being empathic to our own team, not just customers.</li>\n  <li><strong>Learner: </strong>We love to think as a beginner than an expert. We turn mistakes as learning opportunities rather than failures.</li>\n  <li><strong>Persevere</strong>: Healthcare industry is a long journey business. Persistence in doing something despite difficulty or delay in achieving success is needed here.</li>\n</ul>\n\n<p><br></p>",
+      "description": "Klinik Pintar is an Indonesia-based health tech startup that helps its users book teleconsultations, virtual health services, as well as in-clinic sessions.",
+      "business_models": [],
+      "entity": {
+        "id": "0e610883-c3e5-4936-98b2-d2cf77f3cbdb",
+        "entityable_type": "company",
+        "entityable_id": "b77b72ce-5ddc-45ab-8ce3-06c3fc335f20",
+        "slug": "klinik-pintar",
+        "claimed": 11,
+        "images": [
+          {
+            "id": "988fcb7f-2062-4ab0-bb54-26f06f0b5422",
+            "url": "https://cdn.techinasia.com/data/images/W481i5yKqgabTdhR6X4oqbm1QpJnbWbe2cGPbaZP.jpeg",
+            "type": "avatar"
+          },
+          {
+            "id": "c29b7fc8-c6ae-4502-9c0b-b0aca4c018e9",
+            "url": "https://cdn.techinasia.com/data/images/ClwSESkhCTQBYgMMUboMB4FZcXPagWEPqg1v5yVT.png",
+            "type": "photo"
+          }
+        ],
+        "industries": [
+          {
+            "id": "302c7bb2-e083-4005-ae4d-c7050301ff96",
+            "name": "Healthcare Services",
+            "slug": "healthcare-services",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "e4087eac-8d9b-4eb4-84b9-c88ecd59b6bf",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "aa24c407-ca10-4afb-8db4-b197a748bb89",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/company/klinikpintar"
+          },
+          {
+            "id": "261faa43-02f4-400e-934c-a1a741b87b3c",
+            "site": {
+              "id": "19d9d2e7-0d32-471e-b934-a059d95a0262",
+              "name": "Facebook",
+              "company_order": 2,
+              "order": 2,
+              "prefix": "www.facebook.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.facebook.com/klinikpintar"
+          },
+          {
+            "id": "a77f80d8-c1b5-419d-8fef-656929377a83",
+            "site": {
+              "id": "20cafb7e-3aef-4a87-a2d3-ed4ca39e25ee",
+              "name": "Twitter",
+              "company_order": 4,
+              "order": 3,
+              "prefix": "twitter.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://twitter.com/klinikpintaridi"
+          },
+          {
+            "id": "2fc90e00-6e68-486c-b548-224397917ea9",
+            "site": {
+              "id": "a328a36d-81f4-47f1-9d17-c63c4c911ff4",
+              "name": "Instagram",
+              "company_order": 13,
+              "order": 4,
+              "prefix": "www.instagram.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.instagram.com/klinikpintar"
+          },
+          {
+            "id": "1ed4d7eb-e5a3-4155-801b-0c4f122bebce",
+            "site": {
+              "id": "65817c4c-c1c1-4d76-a176-96c682e30234",
+              "name": "Android App",
+              "company_order": 10,
+              "order": 14,
+              "prefix": "play.google.com/store/apps/",
+              "is_prefix_editable": true
+            },
+            "url": "https://play.google.com/store/apps/details?id=com.covantex.klinikPintar&hl=en&gl=US"
+          },
+          {
+            "id": "162fc1fc-5126-4c28-b108-1cfa7e7e7ea8",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "http://klinikpintar.id"
+          },
+          {
+            "id": "19eec77e-d19a-43ce-aeef-c64652f3e4c5",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://klinikpintar.id"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "87c6b2bf-f4cc-436c-b2e1-7328b1050e9b",
+        "name": "Digital Marketing"
+      },
+      {
+        "id": "d1826e2b-d059-4bfd-879b-17e403a78e26",
+        "name": "Content Creation"
+      },
+      {
+        "id": "bc337481-0aee-4073-8eb7-3535d9441da4",
+        "name": "Google Analytics"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "8ba29919-9179-4981-8570-ab185d14f915",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Marketing & PR jobs here!",
+      "keywords": "digital marketing jobs, marketing manager jobs, social media marketing startups, Marketing & PR jobs, Marketing jobs in startups, Marketing & PR jobs salary, Marketing & PR job description, Marketing & PR jobs in asia, Marketing & PR jobs in start ups, Marketing & PR careers, hiring Marketing & PR roles, Marketing & PR jobs asia, startup Marketing & PR jobs",
+      "name": "Marketing & PR"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "a757bcc1-e325-4de4-abe6-2d4177ec44fe",
+    "status": "published",
+    "title": "Copywriter (For Getplus.id)",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 6000000,
+    "salary_max": 9000000,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<p>Job Description :\u00a0</p>\n<p>\u2022 Author marketing headlines that grab attention\u00a0</p>\n<p>\u2022 Write high-engagement communications that reflects the brand of the company\u00a0</p>\n<p>\u2022 Craft persuasive messages, tell compelling stories, and enhance our brand voice\u00a0</p>\n<p>\u2022 Write original copy and edit content for a range of corporate marketing and communications materials\u00a0</p>\n<p>\u2022 Collaborate to develop a variety of creative contents\u00a0</p>\n<p>\u2022 Interpret creative direction and adapt points from creative briefs into persuasive copy concepts\u00a0</p>\n<p>\u2022 Produce error-free copy/content that adheres to the company\u2019s style guidelines\u00a0</p>\n<p>\u2022 Conduct research into target audiences for creative content\u00a0</p>\n<p>\u2022 Simultaneously manage multiple projects with short deadlines</p>\n<p><br></p>\n<p><br></p>\n<p>Job Requirement :\u00a0</p>\n<p>\u2022 Minimum 3 year experience in producing copy for digital, print, and broadcast channels, preferably with a marketing or creative agency\u00a0</p>\n<p>\u2022 A bachelor\u2019s degree in journalism, marketing, creative writing, communications, or related fields\u00a0</p>\n<p>\u2022 Outstanding written and verbal communication skills, as well as exceptional grammar and command of the Bahasa Indonesia and English languages\u00a0</p>\n<p>\u2022 A strong understanding of the components of compelling, action-inducing communications\u00a0</p>\n<p>\u2022 A strong knack for communication strategy and an eye for the long-term scalability of communication decisions\u00a0</p>\n<p>\u2022 Focus and strong attention to detail, updated on current trends</p>\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 03:49:06",
+    "updated_at": "2021-12-29 03:49:06",
+    "expires_at": "2022-02-27 03:49:06",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+      "name": "Jakarta",
+      "locode": "ID JKT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "0915085d-5c74-4ed6-913f-c835252dd587",
+        "name": "Jakarta Raya",
+        "subdiv_code": "JK"
+      }
+    },
+    "company": {
+      "id": "b0f4a9d3-e1fb-4b77-97ae-9efbeed3b229",
+      "name": "PT Merah Cipta Media",
+      "date_founded": null,
+      "is_folded": false,
+      "employee_min_count": 201,
+      "employee_max_count": 500,
+      "pitch": "Merah Cipta Media is one of the leading internet and advertising group company in Indonesia that provides complete solution in branding, marketing, communications, technology and digital media strategy & execution for major industry players in Indonesia.",
+      "culture": "<p>We are immensely passionate to help Indonesia\u2019s creative and technology <br /></p>\n\n<p>industry to grow rapidly. We focus on marketing, branding, <br />entrepreneurship and Internet\u00ad\u00ad\u2014and we are bringing all of these key <br />elements together to create a strong digital and technology environment <br />in Indonesia.</p>",
+      "description": null,
+      "business_models": [],
+      "entity": {
+        "id": "8640d0d5-cb1a-4fbd-96ee-2d3385567749",
+        "entityable_type": "company",
+        "entityable_id": "b0f4a9d3-e1fb-4b77-97ae-9efbeed3b229",
+        "slug": "pt-merah-cipta-media",
+        "claimed": 5,
+        "images": [
+          {
+            "id": "3f1baafb-a60d-42b4-bbb4-260b8fb6b6a4",
+            "url": "https://cdn.techinasia.com/data/images/cc92cd81b76ba99f5848fb8e5caf5bcc.png",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "d0577e6b-721b-4596-a67a-c923d3274996",
+            "name": "Digital Media",
+            "slug": "digital-media-2",
+            "description": ""
+          },
+          {
+            "id": "00030e49-de50-4c51-a784-8af4e7d919c1",
+            "name": "Advertising",
+            "slug": "advertising",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "4e2495ef-dd28-4ab5-b302-e912522c9494",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "2993fd03-2354-4024-b2f9-4b284dad8677",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "http://www.merahciptamedia.co.id"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      { "id": "a649e194-1c01-4be5-b1fe-c122898ee02b", "name": "Copywriting" },
+      {
+        "id": "9a287053-13ca-4e66-8d8d-1f8bc243f7cf",
+        "name": "Copywriting & Editing"
+      },
+      { "id": "77d9a938-c67e-4c54-9200-156e2158861a", "name": "Journalism" },
+      { "id": "a2b7fe12-c37e-40f8-9499-bec4f945f0d4", "name": "Media" },
+      { "id": "4be12154-8e12-450c-bfc9-b4e7a91ae43d", "name": "Writing" },
+      {
+        "id": "d1826e2b-d059-4bfd-879b-17e403a78e26",
+        "name": "Content Creation"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "5621cfa2-a5fb-4769-852e-f2353cbefb17",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Media & Journalism jobs here!",
+      "keywords": "media & journalism jobs, media & journalism jobs in startups, media & journalism jobs salary, media & journalism job description, media & journalism jobs in asia, media & journalism jobs in start ups, media & journalism careers, hiring media & journalism roles, media & journalism jobs asia, startup media & journalism jobs",
+      "name": "Media & Journalism"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "c62e639f-b084-463b-a7ec-94ab905574c4",
+    "status": "published",
+    "title": "Project Associate",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 0,
+    "salary_max": 0,
+    "has_equity": false,
+    "vacancy_count": 4,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<p><strong>Job Description \u00a0:\u00a0</strong></p>\n<ul><li>Drive all business processes, metrics, projects and new initiatives in Supply Chain environment are well developed and executed within budget scope &amp; timely manner- tandem with Project Analyst. Heavy in strategic &amp; as main driver.</li>\n  <li>Collaborate with other stakeholders to start a new initiative/project</li>\n  <li>Support strategic, ideation and problem solving with Project Manager, Director of SC and/or Management</li>\n</ul>\n\n<p><strong>Skills \u00a0\u00a0\u00a0:</strong></p>\n<ul><li>Leadership\u00a0</li>\n  <li>Able to handle multiple projects simultaneously (project management skill)</li>\n  <li>Strong analytical skills</li>\n  <li>Growth mindset</li>\n  <li>Problem solving</li>\n  <li>Exceptional written and verbal</li>\n  <li>Able to work independently or in a team environment</li>\n  <li>Flexible</li>\n</ul>\n\n<p><br></p>\n<p><strong>Qualifications \u00a0\u00a0:\u00a0</strong></p>\n<ul><li>3+ years of experience in business development, operations, sales. E-commerce industry experience preferred for Project Associate - Commercial\u00a0</li>\n  <li>3+ years of experience in logistic &amp; warehouse operations for Project Associate - Logistic\u00a0</li>\n  <li>Minimal bachelor degree in reputable university, major in management &amp; business related major preferred</li>\n  <li>Ms. Office (PPT, Excel, Word)\u00a0</li>\n  <li>Had an experience in consulting firm and/or PMO or CEO Office in fast paced startup</li>\n</ul>\n\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 06:36:56",
+    "updated_at": "2021-12-29 06:36:56",
+    "expires_at": "2022-02-27 06:36:56",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+      "name": "Jakarta",
+      "locode": "ID JKT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "0915085d-5c74-4ed6-913f-c835252dd587",
+        "name": "Jakarta Raya",
+        "subdiv_code": "JK"
+      }
+    },
+    "company": {
+      "id": "62ccd90b-0feb-48aa-a366-af0393bb4640",
+      "name": "Evermos",
+      "date_founded": "2018-11-01",
+      "is_folded": false,
+      "employee_min_count": 51,
+      "employee_max_count": 200,
+      "pitch": "Evermos provides a platform that connects consumers to resellers and brands offering halal and sharia-compliant goods.",
+      "culture": "    <p>At Evermos, we are adaptable, vibrant, collaborative, fast paced and innovative.</p>\n\n    <p><b>Benefits and perks of working with us include:</b></p>\n\n    <p><b>Compensation:</b> Competitive salaries<br><b>Lifestyle:</b> Casual dress code<br></p>\n\n    \n  ",
+      "description": "Evermos provides a platform that connects consumers to resellers and brands offering halal and sharia-compliant goods.",
+      "business_models": [],
+      "entity": {
+        "id": "b4c36386-99db-44a3-ab6f-94ea3031434a",
+        "entityable_type": "company",
+        "entityable_id": "62ccd90b-0feb-48aa-a366-af0393bb4640",
+        "slug": "evermos",
+        "claimed": 7,
+        "images": [
+          {
+            "id": "575aa21c-50f8-4a3e-a18f-79912f4efa55",
+            "url": "https://cdn.techinasia.com/data/images/0llFZiNEGEAdUOEmXr0aCiwlbZTxKa0krRVriqra.png",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "4bde47c0-7fab-4317-87bf-bac670f27d82",
+            "name": "Marketplaces (miscellaneous niche)",
+            "slug": "marketplaces-miscellaneous-niche",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "38ac684d-a584-4064-af96-30063cb08a49",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "0015792a-e539-46f5-9f31-3c7f61db1db3",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/company/evermos/"
+          },
+          {
+            "id": "5fc98816-0dd1-4875-b2aa-903539abd5f2",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://evermos.com"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "04712876-6722-4d28-b857-8f39ef064379",
+        "name": "Business Development & Partnerships"
+      },
+      {
+        "id": "0bb65880-73ef-4f35-859e-57327f8988f0",
+        "name": "Marketing Strategy"
+      },
+      {
+        "id": "700070fe-b981-4cc4-bc64-2a03af127fdf",
+        "name": "Business Analysis"
+      },
+      {
+        "id": "8cee9310-a380-4d4d-ac76-a612cdb49e81",
+        "name": "Business Development"
+      },
+      {
+        "id": "c93e386c-260a-41e1-aacb-b4772ffe54b5",
+        "name": "Communication Skills"
+      },
+      {
+        "id": "f7e57b0a-9a01-4663-8fed-1fa5309f6bf8",
+        "name": "Project Management"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "58fd4d82-53e3-474f-9834-12b9494f3872",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Project & Product Management jobs here!",
+      "keywords": "Project & Product management jobs, Project management jobs in startups, Product management jobs in startups, Project & Product management jobs salary, Project & Product management job description, Project & Product management jobs in asia, Project & Product management jobs in start ups, Project & Product management careers, hiring Project & Product management roles, Project & Product management jobs asia, startup Project & Product management jobs",
+      "name": "Project & Product Management"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "93354325-0bdd-493f-930b-2b37ebd882d9",
+    "status": "published",
+    "title": "Product Management (Intern)",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 2000000,
+    "salary_max": 2000000,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 0,
+    "experience_max": 1,
+    "description": "<ul><li>Translate business strategy into product strategy \u00a0</li>\n  <li>Own the product roadmap \u00a0</li>\n  <li>Execute product strategy \u00a0</li>\n  <li>Drive action throughout the organization to get products to market \u00a0</li>\n  <li>Plan and carry out product launches \u00a0</li>\n  <li>Manage product profitability and commercial success \u2013 own the business case \u00a0</li>\n  <li>Provide insight to stakeholders on the product and market \u00a0</li>\n  <li>Provide product marketing with insights on key differentiators and messages \u00a0</li>\n  <li>Write high-level requirements \u00a0</li>\n  <li>Support the Product Owner and Product Marketer with any questions they may have \u00a0</li>\n  <li>Manage all aspects of in-life products, including customer feedback, requirements, and issues\u00a0</li>\n  <li>Education : Psychology or Information Technology</li>\n</ul>\n\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 05:16:43",
+    "updated_at": "2021-12-29 05:16:43",
+    "expires_at": "2022-02-27 05:16:43",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "59f5657e-340d-49f1-ad27-829f32aaa722",
+      "name": "Yogyakarta",
+      "locode": "ID JOG",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "e7cac0f4-c9d2-4d96-91ef-c65c547d5ba6",
+        "name": "Yogyakarta",
+        "subdiv_code": "YO"
+      }
+    },
+    "company": {
+      "id": "2a489ba4-e2cb-4943-ae5a-b4b4c417c981",
+      "name": "MyRobin Indonesia",
+      "date_founded": "2019-01-01",
+      "is_folded": false,
+      "employee_min_count": 11,
+      "employee_max_count": 50,
+      "pitch": "MyRobin Indonesia is an outsourcing service provider in Indonesia.",
+      "culture": "    <p>At MyRobin Indonesia, we are adaptable, energetic, open, passionate and collaborative.</p>\n\n    <p><b>Benefits and perks of working with us include:</b></p>\n\n    <p><b>Family benefits:</b> Paid maternity / paternity leave<br><b>Lifestyle:</b> Casual dress code, Flexible hours<br><b>Welfare:</b> Paid sick days<br></p>\n\n    \n  ",
+      "description": "MyRobin Indonesia is an outsourcing service provider in Indonesia.",
+      "business_models": [],
+      "entity": {
+        "id": "8c1fc0bc-5e9a-4577-8d26-44d59607916b",
+        "entityable_type": "company",
+        "entityable_id": "2a489ba4-e2cb-4943-ae5a-b4b4c417c981",
+        "slug": "myrobin-indonesia",
+        "claimed": 5,
+        "images": [
+          {
+            "id": "d444c0ce-9792-44ec-925e-8f4982ce6d53",
+            "url": "https://cdn.techinasia.com/data/images/9jxcZwoTBWYoJk4zgC71PQJp8MbzPlaUfCl59RdC.png",
+            "type": "avatar"
+          },
+          {
+            "id": "f6289c8b-82db-4e53-863d-107f40a6b7eb",
+            "url": "https://cdn.techinasia.com/data/images/RTGUdn2KxLQcGtalnstXXYAEQ6GMbTkDDymhXsDu.png",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "71353c77-13ac-436c-83ae-ec0f73433c41",
+            "name": "Human Resource",
+            "slug": "human-resource",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "0525d036-8b5e-426e-90f5-7e322d8974e2",
+            "city": {
+              "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+              "name": "Jakarta",
+              "locode": "ID JKT"
+            },
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "b003b7bc-2b13-4a74-b178-9adbd532fe3c",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/company/myrobinid"
+          },
+          {
+            "id": "7c98efee-e356-48f6-b027-768adf08b3b6",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "http://myrobin.id"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "f7e57b0a-9a01-4663-8fed-1fa5309f6bf8",
+        "name": "Project Management"
+      },
+      {
+        "id": "bcbb3497-70b4-457b-8d1c-23260ac07f0f",
+        "name": "Product Development"
+      },
+      {
+        "id": "26cb6060-c1d3-4cb0-a2b5-88580424d79b",
+        "name": "Product Launch"
+      },
+      {
+        "id": "53d115a8-7dca-4012-b515-6c9bb5698fff",
+        "name": "Product Strategy"
+      },
+      {
+        "id": "adcfa2f1-196b-4713-9a29-91a9a62c97b5",
+        "name": "Product Management"
+      },
+      {
+        "id": "1ce4f3b7-cff1-4f8f-b708-5cee0663aef3",
+        "name": "Product Research"
+      }
+    ],
+    "job_type": {
+      "id": "3ba3899c-da16-48a8-8e22-c3e75e52af4c",
+      "name": "Internship",
+      "sequence": 4
+    },
+    "position": {
+      "id": "58fd4d82-53e3-474f-9834-12b9494f3872",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Project & Product Management jobs here!",
+      "keywords": "Project & Product management jobs, Project management jobs in startups, Product management jobs in startups, Project & Product management jobs salary, Project & Product management job description, Project & Product management jobs in asia, Project & Product management jobs in start ups, Project & Product management careers, hiring Project & Product management roles, Project & Product management jobs asia, startup Project & Product management jobs",
+      "name": "Project & Product Management"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "c6388df3-167c-4acc-93d6-3ab11d846d53",
+    "status": "published",
+    "title": "Project Analyst",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 0,
+    "salary_max": 0,
+    "has_equity": false,
+    "vacancy_count": 4,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<p><strong>Job Description \u00a0:\u00a0</strong></p>\n<ul><li>Ensure all business processes, metrics, projects and new initiatives in Supply Chain environment are executed within budget scope &amp; timely manner - tandem with Project Associate. Heavy in elaborating &amp; implementing.\u00a0</li>\n  <li>Collaborate with other stakeholders to start a new initiative/project</li>\n  <li>Support ideation, technical and problem solving with Project Manager, Director of SC and/or Management</li>\n</ul>\n\n<p><strong>Skills \u00a0\u00a0\u00a0:</strong></p>\n<ul><li>Able to handle multiple projects simultaneously (project management skill)</li>\n  <li>Strong analytical skills</li>\n  <li>Growth mindset</li>\n  <li>Problem solving</li>\n  <li>Exceptional written and verbal</li>\n  <li>Able to work independently or in a team environment</li>\n  <li>Flexible</li>\n</ul>\n\n<p><strong>Qualifications \u00a0\u00a0:\u00a0</strong></p>\n<ul><li>Min. 1 year of experience in business development, operations, sales. E-commerce industry experience preferred for Project Analyst- Commercial\u00a0</li>\n  <li>Min. 1 year of experience in logistic &amp; warehouse operations for Project Analyst - Logistic\u00a0</li>\n  <li>Minimal bachelor degree in reputable university, major in management &amp; business related major preferred</li>\n  <li>Ms. Office (PPT, Excel, Word)\u00a0</li>\n  <li>Had an experience in consulting firm and/or PMO or CEO Office in fast paced startup</li>\n</ul>\n\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 06:38:33",
+    "updated_at": "2021-12-29 06:38:33",
+    "expires_at": "2022-02-27 06:38:33",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+      "name": "Jakarta",
+      "locode": "ID JKT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "0915085d-5c74-4ed6-913f-c835252dd587",
+        "name": "Jakarta Raya",
+        "subdiv_code": "JK"
+      }
+    },
+    "company": {
+      "id": "62ccd90b-0feb-48aa-a366-af0393bb4640",
+      "name": "Evermos",
+      "date_founded": "2018-11-01",
+      "is_folded": false,
+      "employee_min_count": 51,
+      "employee_max_count": 200,
+      "pitch": "Evermos provides a platform that connects consumers to resellers and brands offering halal and sharia-compliant goods.",
+      "culture": "    <p>At Evermos, we are adaptable, vibrant, collaborative, fast paced and innovative.</p>\n\n    <p><b>Benefits and perks of working with us include:</b></p>\n\n    <p><b>Compensation:</b> Competitive salaries<br><b>Lifestyle:</b> Casual dress code<br></p>\n\n    \n  ",
+      "description": "Evermos provides a platform that connects consumers to resellers and brands offering halal and sharia-compliant goods.",
+      "business_models": [],
+      "entity": {
+        "id": "b4c36386-99db-44a3-ab6f-94ea3031434a",
+        "entityable_type": "company",
+        "entityable_id": "62ccd90b-0feb-48aa-a366-af0393bb4640",
+        "slug": "evermos",
+        "claimed": 7,
+        "images": [
+          {
+            "id": "575aa21c-50f8-4a3e-a18f-79912f4efa55",
+            "url": "https://cdn.techinasia.com/data/images/0llFZiNEGEAdUOEmXr0aCiwlbZTxKa0krRVriqra.png",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "4bde47c0-7fab-4317-87bf-bac670f27d82",
+            "name": "Marketplaces (miscellaneous niche)",
+            "slug": "marketplaces-miscellaneous-niche",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "38ac684d-a584-4064-af96-30063cb08a49",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "0015792a-e539-46f5-9f31-3c7f61db1db3",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/company/evermos/"
+          },
+          {
+            "id": "5fc98816-0dd1-4875-b2aa-903539abd5f2",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://evermos.com"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "04712876-6722-4d28-b857-8f39ef064379",
+        "name": "Business Development & Partnerships"
+      },
+      {
+        "id": "8cee9310-a380-4d4d-ac76-a612cdb49e81",
+        "name": "Business Development"
+      },
+      {
+        "id": "c93e386c-260a-41e1-aacb-b4772ffe54b5",
+        "name": "Communication Skills"
+      },
+      {
+        "id": "f7e57b0a-9a01-4663-8fed-1fa5309f6bf8",
+        "name": "Project Management"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "58fd4d82-53e3-474f-9834-12b9494f3872",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Project & Product Management jobs here!",
+      "keywords": "Project & Product management jobs, Project management jobs in startups, Product management jobs in startups, Project & Product management jobs salary, Project & Product management job description, Project & Product management jobs in asia, Project & Product management jobs in start ups, Project & Product management careers, hiring Project & Product management roles, Project & Product management jobs asia, startup Project & Product management jobs",
+      "name": "Project & Product Management"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "15aee4bd-d13d-4574-8226-5631ffa75183",
+    "status": "published",
+    "title": "Digital Marketing Specialist",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 5000000,
+    "salary_max": 8000000,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<p><strong>JOB DESCRIPTION</strong></p>\n<ul><li>Work on the execution of digital campaigns, production, and post-campaign reports review</li>\n  <li>Measure and report performance of all digital marketing campaigns, and assess against goals (ROI and KPIs)</li>\n  <li>Identify trends and insights also optimize spend and performance based on the insights</li>\n  <li>Has the experience in handling multiple ads channel (FB, Instagram, TikTok, Google, etc)</li>\n  <li>Utilize strong analytical ability to evaluate end-to-end customer experience across multiple channels and customer touch points</li>\n  <li>Able to communicate well</li>\n  <li>Ability to speak about digital marketing on online/offline events will be a PLUS!\u00a0</li>\n</ul>\n\n<p><strong>REQUIREMENTS</strong></p>\n<ul><li>At least D3 or S1 in Marketing\u00a0</li>\n  <li>Min. 1 years experience in the same fields</li>\n  <li>Ability to multitask, prioritize and time management</li>\n  <li>Fluency in English and Bahasa</li>\n  <li>Have a good communication skills &amp; interpersonal skills</li>\n</ul>\n\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 03:24:29",
+    "updated_at": "2021-12-29 03:24:29",
+    "expires_at": "2022-02-27 03:24:29",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+      "name": "Jakarta",
+      "locode": "ID JKT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "0915085d-5c74-4ed6-913f-c835252dd587",
+        "name": "Jakarta Raya",
+        "subdiv_code": "JK"
+      }
+    },
+    "company": {
+      "id": "020c7ad5-d41a-4e66-a5c7-c38f6260088f",
+      "name": "AVANA",
+      "date_founded": "2014-01-01",
+      "is_folded": false,
+      "employee_min_count": 11,
+      "employee_max_count": 50,
+      "pitch": "AVANA is Southeast Asia's leading social commerce enabler that helps small business convert social media from  promotional to transactional platforms. We partner with the likes of Facebook, Google, marketplaces and other big players in the region to aggregate sellers from these channels in 1 single dashboard and help them grow their business.\r\n",
+      "culture": "<p>A\u00a0creative, dynamic, fun, innovative and passionate team in our mission to empower\u00a0online merchants globally</p>",
+      "description": "AVANA, previously known as Square.my, is a platform that helps sellers from all kinds of categories to grow their business from local to global market.",
+      "business_models": [
+        {
+          "id": "1f631bf8-1b7e-4fb3-af48-82fc4617de56",
+          "name": "Subscription",
+          "description": "Users are charged a periodic -- daily, monthly or annual -- fee to subscribe to a service. E.g. Spotify, Netflix, Techlist"
+        }
+      ],
+      "entity": {
+        "id": "f61354f6-9aa1-4a46-8435-b1a289b62de5",
+        "entityable_type": "company",
+        "entityable_id": "020c7ad5-d41a-4e66-a5c7-c38f6260088f",
+        "slug": "avana",
+        "claimed": 6,
+        "images": [
+          {
+            "id": "2227003b-8388-4cc0-af56-a3587fdbe491",
+            "url": "https://cdn.techinasia.com/data/images/8ae6060ae28585dc3aa052a3350e8aa5.png",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "60a89562-5295-4cc9-b8b1-7fc5fd85a448",
+            "name": "Ecommerce seller tools and services",
+            "slug": "ecommerce-seller-tools-and-services",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "d44112ec-28f7-46df-9ce9-7591ba63fc1c",
+            "city": null,
+            "country": {
+              "id": "4ae2ddb6-b648-4c95-8beb-e6c95820bf94",
+              "alpha2": "MY",
+              "alpha3": "MYS",
+              "name": "Malaysia",
+              "continent": "Asia",
+              "country_code": 60
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "1ce790fe-3e6c-4038-8235-aab661bbb4f8",
+            "site": {
+              "id": "19d9d2e7-0d32-471e-b934-a059d95a0262",
+              "name": "Facebook",
+              "company_order": 2,
+              "order": 2,
+              "prefix": "www.facebook.com/",
+              "is_prefix_editable": false
+            },
+            "url": "https://www.facebook.com/avana.asia"
+          },
+          {
+            "id": "d6dee343-6d32-49b0-83b9-70584b6568e0",
+            "site": {
+              "id": "20cafb7e-3aef-4a87-a2d3-ed4ca39e25ee",
+              "name": "Twitter",
+              "company_order": 4,
+              "order": 3,
+              "prefix": "twitter.com/",
+              "is_prefix_editable": false
+            },
+            "url": "https://twitter.com/avanaasia"
+          },
+          {
+            "id": "0d47e418-7062-40a8-8c4b-8be3341e6370",
+            "site": {
+              "id": "22d7ce29-c645-4a1d-a401-ef55e717e6d5",
+              "name": "CrunchBase",
+              "company_order": 5,
+              "order": 8,
+              "prefix": "www.crunchbase.com/person/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.crunchbase.com/organization/avana"
+          },
+          {
+            "id": "8fd1cff6-b20e-42f2-a75c-b37a66bbd174",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "http://www.avana.asia"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "29509900-ab65-4d8a-8775-4335627c3aa4",
+        "name": "Facebook Advertising"
+      },
+      { "id": "59caf8a7-a34e-425b-8631-07f48fea54b4", "name": "Advertising" },
+      {
+        "id": "87c6b2bf-f4cc-436c-b2e1-7328b1050e9b",
+        "name": "Digital Marketing"
+      },
+      {
+        "id": "a92fa603-9d7e-4382-aaaa-debaf714de24",
+        "name": "Mobile Advertising"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "8ba29919-9179-4981-8570-ab185d14f915",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Marketing & PR jobs here!",
+      "keywords": "digital marketing jobs, marketing manager jobs, social media marketing startups, Marketing & PR jobs, Marketing jobs in startups, Marketing & PR jobs salary, Marketing & PR job description, Marketing & PR jobs in asia, Marketing & PR jobs in start ups, Marketing & PR careers, hiring Marketing & PR roles, Marketing & PR jobs asia, startup Marketing & PR jobs",
+      "name": "Marketing & PR"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "279df1f8-71b8-4a3e-b364-67766a98794f",
+    "status": "published",
+    "title": "Social Media Officer",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 6000000,
+    "salary_max": 8500000,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<ul><li>Develop and implement social media strategies.\u00a0</li>\n  <li>Post to and monitor a range of social media accounts, simultaneously\u00a0</li>\n  <li>Help grow social reach, engagement, and referral traffic\u00a0</li>\n  <li>Spot social media trends, including new platforms and changes to existing ones\u00a0</li>\n  <li>Brainstorm and generate search-friendly headlines and social-friendly copy with team\u00a0</li>\n  <li>Writing content that is suitable for various social media platforms\u00a0</li>\n  <li>Responding to and addressing the community\u2019s queries and complaints efficiently, professionally and timeously\u00a0</li>\n  <li>Driving engagement and conversations with the community and ultimately establishing brand loyalty\u00a0</li>\n  <li>Identifying tactical and relevant opportunities to engage with client communities</li>\n  <li>Executing and optimizing content during campaigns to ensure momentum and optimal visibility\u00a0</li>\n  <li>Keeping up-to-date with the latest trends within the digital and social media landscape\u00a0</li>\n  <li>Executing social media competitions and collating entries\u00a0</li>\n  <li>Compiling weekly/monthly social media platform reports\u00a0</li>\n  <li>Monitor effective benchmarks (best practices) for measuring the impact of social media campaigns\u00a0</li>\n  <li>Analyze, review and report on the effectiveness of campaigns to maximize results\u00a0</li>\n  <li>Minimum of 3 years of experience.</li>\n</ul>\n\n<p>Keep fully up to date with all that is happening within the organization<br></p>\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 02:47:53",
+    "updated_at": "2021-12-29 02:51:02",
+    "expires_at": "2022-02-27 02:47:53",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+      "name": "Jakarta",
+      "locode": "ID JKT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "0915085d-5c74-4ed6-913f-c835252dd587",
+        "name": "Jakarta Raya",
+        "subdiv_code": "JK"
+      }
+    },
+    "company": {
+      "id": "be916888-34ed-4d23-b6c5-bc4dd0f78132",
+      "name": "PT Definite Maji Arsana",
+      "date_founded": null,
+      "is_folded": false,
+      "employee_min_count": 51,
+      "employee_max_count": 200,
+      "pitch": "We are part of Indonesia\u2019s emerging business group with core offering \r\nof end to end digital services and products.\r\n",
+      "culture": "<p>We truly believe that the only way to do great work is to love what you do. To bring out the best of our team, Definite strive in building an organization that people love to be apart of. Difference, Responsible Honesty, Extra Value, Authenticity, Meaningful, and Simple has become our foundation moving forward.</p>",
+      "description": null,
+      "business_models": [],
+      "entity": {
+        "id": "a893a4c6-23f3-4791-8581-edca6440670d",
+        "entityable_type": "company",
+        "entityable_id": "be916888-34ed-4d23-b6c5-bc4dd0f78132",
+        "slug": "pt-definite-maji-arsana",
+        "claimed": 6,
+        "images": [
+          {
+            "id": "07cb771f-9b00-41b9-90d3-5d2701df4524",
+            "url": "https://cdn.techinasia.com/data/images/243ae0c051827754f35a1ff3a809a550.PNG",
+            "type": "photo"
+          },
+          {
+            "id": "ad244cbb-db44-4272-a3ba-47cfc95a8440",
+            "url": "https://cdn.techinasia.com/data/images/d16e38b94833896ae1d8e875c906d195.png",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "d0577e6b-721b-4596-a67a-c923d3274996",
+            "name": "Digital Media",
+            "slug": "digital-media-2",
+            "description": ""
+          },
+          {
+            "id": "54c361d2-1cc2-4472-b73b-b8f603b81777",
+            "name": "IT & Cybersecurity",
+            "slug": "it-and-cybersecurity",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "7cc7b71c-982c-43e7-9f33-5ea3c31abf70",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "19c8da26-a323-4d03-83f2-fd621a6437d6",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "http://www.linkedin.com/company/definite/"
+          },
+          {
+            "id": "5a7b0cb2-eb1e-41ee-84da-5d96df4aef8d",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "http://www.definite.co.id"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "2bf52b58-2219-4b66-a8bf-e415458e342f",
+        "name": "Social Media Marketing"
+      },
+      {
+        "id": "54d9d7fe-7f31-40d8-a3c1-fb81a7d84d98",
+        "name": "Content Marketing"
+      },
+      {
+        "id": "87c6b2bf-f4cc-436c-b2e1-7328b1050e9b",
+        "name": "Digital Marketing"
+      },
+      {
+        "id": "8a78ba3d-e150-4412-83b8-4edcd6f09e73",
+        "name": "Social Media Strategy"
+      },
+      { "id": "aebbfee8-fe28-4051-b8c1-1475e485c9b6", "name": "Social Media" },
+      {
+        "id": "f22d04b4-23d6-42fd-b0ad-255a491b08f3",
+        "name": "Marketing Communications"
+      },
+      {
+        "id": "f6ce96f7-3b51-4867-bab4-5a50aabc4a8c",
+        "name": "Sales & Marketing"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "8ba29919-9179-4981-8570-ab185d14f915",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Marketing & PR jobs here!",
+      "keywords": "digital marketing jobs, marketing manager jobs, social media marketing startups, Marketing & PR jobs, Marketing jobs in startups, Marketing & PR jobs salary, Marketing & PR job description, Marketing & PR jobs in asia, Marketing & PR jobs in start ups, Marketing & PR careers, hiring Marketing & PR roles, Marketing & PR jobs asia, startup Marketing & PR jobs",
+      "name": "Marketing & PR"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "e5c1ed86-3462-44d3-a45b-f2c76841cd47",
+    "status": "published",
+    "title": "Group Head of Administration",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 0,
+    "salary_max": 0,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 7,
+    "experience_max": 10,
+    "description": "<p><em>If you just click apply, you will not receive a response. You must follow the instructions below under 'how to apply' for our team to review and respond to your application. Complete and qualified applications receive a response within 24 hours.</em></p>\n<p><strong>SUMMARY OF OPPORTUNITY</strong></p>\n<ul><li>Title: Group Head of Administration</li>\n  <li>Level: Manager Level</li>\n  <li>Based In: Deliveree HQ in South Jakarta</li>\n  <li>Responsibility: Groupwide across 4 countries</li>\n</ul>\n\n<p>Deliveree is seeking a Head of Administration. The role is responsible for oversight of administration and human resources across our group which includes teams in Indonesia, Thailand, Vietnam, and the Philippines. While this position is based in our South Jakarta HQ, there will be regular travel of approximately 1 week every month to our other international offices (such travel is suspended during the pandemic).</p>\n<p>Our Head of Administration will be responsible for managing our administration and human resources staff in Indonesia, Thailand, Vietnam, and the Philippines. The average team admin and HR team size per country is about 3-4 people totaling a groupwide team size of approximately 15 people.\u00a0</p>\n<p>No prior experience in company administration or human resources is required (we will train you), however you must have very strong people management, team management, program management, and project management skills.\u00a0</p>\n<p>If this position regional position excites you, please read our qualification requirements below and then follow the instructions carefully under <strong>HOW TO APPLY.</strong></p>\n<p><strong>QUALIFICATIONS</strong></p>\n<ul><li>Full-time work experience of 7+ years</li>\n  <li>Undergraduate GPA 3.5 or higher</li>\n  <li>Masters degree not required</li>\n  <li>English skills TOEFL 550+ (other English test scores are acceptable)</li>\n  <li>Demonstrated people and team management skills</li>\n  <li>Demonstrated program and project management skills</li>\n  <li>Strong presentation and communication skills</li>\n  <li>Strong spreadsheet and analysis skills</li>\n</ul>\n\n<p><strong>BENEFITS</strong></p>\n<ul><li>Challenging, fulfilling career</li>\n  <li>Regular international travel</li>\n  <li>Competitive monthly salary</li>\n  <li>13th month annual salary bonus</li>\n  <li>Annual paid leave</li>\n  <li>Full private healthcare coverage</li>\n  <li>Mobile phone allowance</li>\n  <li>Numerous other company perks</li>\n</ul>\n\n<p><strong>HOW TO APPLY</strong></p>\n<p>Send an email to <a href=\"mailto:tom@deliveree.com\">tom@deliveree.com</a> with the below items. If you submit all the required materials and your qualifications fit our search, you will hear back from us within 24 hours.</p>\n<ol><li>Cover email</li>\n  <li>PDF resume</li>\n  <li>Completed pre-interview form</li>\n  <li>University grades or transcript</li>\n</ol>\n\n<p>Download Pre-Interview Form: <a href=\"https://dlvr.ee/3kpgNvw\">https://dlvr.ee/3kpgNvw</a>\u00a0</p>\n<p><strong>MORE ABOUT DELIVEREE</strong></p>\n<p><a href=\"https://www.deliveree.com/\">https://www.deliveree.com</a>\u00a0</p>\n<p><strong>CNN INTERVIEW</strong></p>\n<p><a href=\"https://youtu.be/2yvxncgonZE\">https://youtu.be/2yvxncgonZE</a>\u00a0</p>\n<p><strong>RECRUITMENT SITE</strong></p>\n<p><a href=\"https://www.deliveree.com/id/en/careers-home/\">https://www.deliveree.com/id/en/careers-home/</a>\u00a0</p>\n<p><strong>CAREERS BLOG</strong></p>\n<p><a href=\"https://www.deliveree.com/id/en/deliveree-career-karir-think-different/\">https://www.deliveree.com/id/en/deliveree-career-karir-think-different/</a>\u00a0</p>\n<p><strong>HQ OFFICE TOUR</strong></p>\n<p><a href=\"https://www.youtube.com/watch?v=giz5WrjkRO0\">https://www.youtube.com/watch?v=giz5WrjkRO0</a>\u00a0</p>",
+    "external_link": "",
+    "published_at": "2021-12-28 14:01:19",
+    "updated_at": "2021-12-28 14:01:19",
+    "expires_at": "2022-02-26 14:01:19",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+      "name": "Jakarta",
+      "locode": "ID JKT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "0915085d-5c74-4ed6-913f-c835252dd587",
+        "name": "Jakarta Raya",
+        "subdiv_code": "JK"
+      }
+    },
+    "company": {
+      "id": "fb13630d-196e-42f1-91b7-380883b1c953",
+      "name": "Deliveree Indonesia",
+      "date_founded": null,
+      "is_folded": false,
+      "employee_min_count": 201,
+      "employee_max_count": 500,
+      "pitch": "Deliveree is an exciting growth stage logistics technology company that operates Indonesia's leading mobile app and logistics platform to bring customers who need to send cargo together with transporters. We are an international company with teams and offices located in Thailand, Philippines, Vietnam, and Indonesia. Within Indonesia, our HQ is located in Kemang, South Jakarta. ",
+      "culture": "<p>Deliveree's culture is all about accelerated career development for our young professionals, lots of real world work responsibility, heavy work loads, high individual productivity, a winning spirit, and having fun.\u00a0</p>\n<p><strong>A DAY AT DELIVEREE</strong></p>\n<p>-Meetings and conference calls</p>\n<p>-Project and team based working sessions</p>\n<p>-Analysis &amp; problem solving</p>\n<p>-Lots of spreadsheet work</p>\n<p>-Lots of presenting and communication</p>\n<p>-Tons of challenges</p>\n<p><strong>BENEFITS &amp; PERKS</strong></p>\n<p>-Free buffet lunches</p>\n<p>-Rent subsidies for kost living</p>\n<p>-Full private healthcare insurance</p>\n<p>-Paid annual leave allowances</p>\n<p>-13th month bonuses</p>\n<p>-Casual work attire</p>\n<p>-Awesome startup style office</p>",
+      "description": null,
+      "business_models": [],
+      "entity": {
+        "id": "b271ae2d-e055-4d94-a157-68780a8d16bc",
+        "entityable_type": "company",
+        "entityable_id": "fb13630d-196e-42f1-91b7-380883b1c953",
+        "slug": "deliveree-indonesia",
+        "claimed": 5,
+        "images": [
+          {
+            "id": "102c7660-6f8e-4ff0-9467-15ab27d1ff48",
+            "url": "https://cdn.techinasia.com/data/images/zc4OAh4Wg2sbXRzNSFvh0i7tYfbFttDTgs2uFmEZ.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "112c5144-a4e5-465e-a48b-292e24b14b73",
+            "url": "https://cdn.techinasia.com/data/images/dkjUYSq8FysjMRRE2Ld3SxUIQgaAwGChjjGAn5rA.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "1d4bda57-6658-47ba-b158-4ba1db1f6855",
+            "url": "https://cdn.techinasia.com/data/images/vM1Hu9fzOy0lj6zjLGZpprMYg3GoMToEFHIPVSEX.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "4f0392a1-5752-4ba7-807e-6916f87cfc81",
+            "url": "https://cdn.techinasia.com/data/images/yUqVeSpCjQb6HZaY1SJGKhrhfd3UeY2OcjJe46x4.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "635401a4-fbc5-42fd-a6f3-c648ef60eab0",
+            "url": "https://cdn.techinasia.com/data/images/Tkm3jNCHpipmj6WOV3czUBu67WiPPlYIlRSWcMky.png",
+            "type": "avatar"
+          },
+          {
+            "id": "8850afb1-324c-426c-8c49-0e75721be3c7",
+            "url": "https://cdn.techinasia.com/data/images/S6A29BraY5OFR27qldSSpNYMlrC63T1OupmpiKfp.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "acc88b77-9b2a-4563-933e-679a61c2c6b1",
+            "url": "https://cdn.techinasia.com/data/images/07eTUuWTsnS9vtscaUr8SsrFuLPpJdJ0dpLAv4LD.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "b80de6c2-c6a2-4891-8a26-ed0509b778a0",
+            "url": "https://cdn.techinasia.com/data/images/6ONeJbIpU47Jktv5TpqNHxJR7jVWyU2WKawZrbPK.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "c9654d99-67ea-496a-8352-7d197c91bf78",
+            "url": "https://cdn.techinasia.com/data/images/aEYYEreB9CIY9MgF5YBZ1KEHazwQzqnK0WX8O35g.jpeg",
+            "type": "photo"
+          }
+        ],
+        "industries": [
+          {
+            "id": "7fea165a-40cd-4513-93ff-e38afc256a41",
+            "name": "Logistics",
+            "slug": "logistics-2",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "304caa0a-e138-4ff4-8e4a-38b4828a7d31",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "11c0298f-cf3d-4f64-ad77-c27f841ee94a",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.deliveree.com/"
+          },
+          {
+            "id": "63e56b8d-3c35-4b1a-ade6-4e65f96df666",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.deliveree.com/id/"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "088c9e47-0473-4cbe-a360-db7c1c1110dc",
+        "name": "Presentation Skills"
+      },
+      {
+        "id": "0c4b33c7-31bb-4d04-a551-befb6bc0c719",
+        "name": "Team Management"
+      },
+      {
+        "id": "13532b21-10e0-4d4e-98a5-57345844eab3",
+        "name": "People Management"
+      },
+      {
+        "id": "56166e13-6938-4e4e-8b98-1c491a77d0ad",
+        "name": "Human Resources"
+      },
+      {
+        "id": "973bccab-75ec-428e-b61b-a6066f588557",
+        "name": "Microsoft Excel"
+      },
+      {
+        "id": "c93e386c-260a-41e1-aacb-b4772ffe54b5",
+        "name": "Communication Skills"
+      },
+      { "id": "da2e638c-ed28-4832-b624-017b016c6482", "name": "Data Analysis" },
+      {
+        "id": "f227a6af-a7e8-40e6-942f-b122de155d86",
+        "name": "Program Management"
+      },
+      {
+        "id": "f7e57b0a-9a01-4663-8fed-1fa5309f6bf8",
+        "name": "Project Management"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "30329460-060e-4037-b94c-4544b824bc60",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Human Resources jobs here!",
+      "keywords": "human resource jobs, human resource jobs in startups, human resource jobs salary, human resource job description, human resource jobs in asia, human resource jobs in start ups, human resource careers, hiring human resource roles, human resource jobs asia, startup human resource jobs",
+      "name": "Human Resources"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "8e758b21-9115-4b24-8bb5-45b9d8f97799",
+    "status": "published",
+    "title": "Web Developer",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 7000000,
+    "salary_max": 9000000,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 0,
+    "experience_max": 1,
+    "description": "<p>\u2022\tDevelop new user-facing features</p>\n<p>\u2022\tBuild reusable code and libraries for future use</p>\n<p>\u2022\tEnsure the technical feasibility of UI/UX designs</p>\n<p>\u2022\tOptimize application for maximum speed and scalability</p>\n<p>\u2022\tAssure that all user input is validated before submitting to back-end</p>\n<p>\u2022\tCollaborate with other team members and stakeholders</p>\n<p>Minimum Qualifications</p>\n<p>\u2022\tBachelor Degree in Computer Science / Information Technology</p>\n<p>\u2022\tProficient understanding of web markup, including HTML5, CSS3</p>\n<p>\u2022\tBasic understanding of server-side CSS pre-processing platforms, such as LESS and SASS</p>\n<p>\u2022\tProficient understanding of client-side scripting and JavaScript frameworks, including jQuery</p>\n<p>\u2022\tGood understanding of asynchronous request handling, partial page updates, and AJAX</p>\n<p>\u2022\tBasic knowledge of image authoring tools, to be able to crop, resize, or perform small adjustments on an image. Familiarity with tools such as as Gimp or Photoshop is a plus.</p>\n<p>\u2022\tProficient understanding of cross-browser compatibility issues and ways to work around them.</p>\n<p>\u2022\tExperience in JavaScript using framework Vue.js and Express.js</p>",
+    "external_link": "",
+    "published_at": "2021-12-18 14:13:28",
+    "updated_at": "2021-12-29 03:49:07",
+    "expires_at": "2022-02-16 14:13:28",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "featured",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+      "name": "Jakarta",
+      "locode": "ID JKT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "0915085d-5c74-4ed6-913f-c835252dd587",
+        "name": "Jakarta Raya",
+        "subdiv_code": "JK"
+      }
+    },
+    "company": {
+      "id": "ec3cc788-7a6e-4beb-986c-6d14a0ce5a44",
+      "name": "PT. YUKK Kreasi Indonesia",
+      "date_founded": null,
+      "is_folded": false,
+      "employee_min_count": 51,
+      "employee_max_count": 200,
+      "pitch": "YUKK Adalah Aplikasi Yang Membawa Revolusi Dalam Industri Ritel, Kami Adalah Aggregator Promosi Yang Berfokus Untuk Menciptakan Ekosistem Omnichannel Dengan Mengintegrasikan Dunia Fisik Dan Digital Dengan Menggunakan Teknologi IOT Dan Augmented Reality (AR)",
+      "culture": "\n    <p>At PT. YUKK Kreasi Indonesia, we are adaptable, innovative, fast paced, energetic and collaborative.</p>\n\n    <p><b>Benefits and perks of working with us include:</b></p>\n\n    <p><b>Compensation:</b> Competitive salaries<br><b>Lifestyle:</b> Casual dress code, Work-from-home<br><b>Progression:</b> Professional development<br><b>Welfare:</b> Health insurance, Vacation time<br></p>\n\n    \n  ",
+      "description": null,
+      "business_models": [],
+      "entity": {
+        "id": "b4ae08bd-bba9-4463-970c-d176244c55f6",
+        "entityable_type": "company",
+        "entityable_id": "ec3cc788-7a6e-4beb-986c-6d14a0ce5a44",
+        "slug": "pt-yukk-kreasi-indonesia-1",
+        "claimed": 3,
+        "images": [
+          {
+            "id": "65167e00-2bd2-4b97-b8cb-1d7f9d903b2c",
+            "url": "https://cdn.techinasia.com/data/images/fYEgz4TLYGVtLyCjpRL1WAwlCnc1cvdLSQ3UhUqZ.png",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "33261a18-479d-426f-8788-684f1c3b0146",
+            "name": "Internet Technology",
+            "slug": "internet-technology",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "533e77bd-34f5-4da8-b7d8-4073603102a9",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "f7e14583-0a8e-4f3b-ba81-a4c30dda0959",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/in/yukkkreasiindonesia/"
+          },
+          {
+            "id": "38d3b596-3cdd-4ebb-ad88-ce07821a0dff",
+            "site": {
+              "id": "19d9d2e7-0d32-471e-b934-a059d95a0262",
+              "name": "Facebook",
+              "company_order": 2,
+              "order": 2,
+              "prefix": "www.facebook.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.facebook.com/yukkindonesia/"
+          },
+          {
+            "id": "858cd897-0630-4518-aac3-72ff30d67c64",
+            "site": {
+              "id": "20cafb7e-3aef-4a87-a2d3-ed4ca39e25ee",
+              "name": "Twitter",
+              "company_order": 4,
+              "order": 3,
+              "prefix": "twitter.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://twitter.com/yukk_id"
+          },
+          {
+            "id": "7affc269-78ff-4df4-90c0-8dc891ac22b4",
+            "site": {
+              "id": "a328a36d-81f4-47f1-9d17-c63c4c911ff4",
+              "name": "Instagram",
+              "company_order": 13,
+              "order": 4,
+              "prefix": "www.instagram.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.instagram.com/yukk_id/"
+          },
+          {
+            "id": "b3ede62b-d1ed-4532-b350-6f082be1e3f7",
+            "site": {
+              "id": "65817c4c-c1c1-4d76-a176-96c682e30234",
+              "name": "Android App",
+              "company_order": 10,
+              "order": 14,
+              "prefix": "play.google.com/store/apps/",
+              "is_prefix_editable": true
+            },
+            "url": "https://play.google.com/store/apps/details?id=com.teltics.yukkers.android"
+          },
+          {
+            "id": "2fd6627e-ddad-4d73-843f-68c24bed8e74",
+            "site": {
+              "id": "66537289-c601-4a7b-9c03-43702c653bb9",
+              "name": "iOS App",
+              "company_order": 8,
+              "order": 15,
+              "prefix": "itunes.apple.com/",
+              "is_prefix_editable": true
+            },
+            "url": "https://apps.apple.com/id/app/yukkers/id1338653047"
+          },
+          {
+            "id": "7331f4e2-151e-41a0-8c57-d896750c414e",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://yukk.co.id"
+          },
+          {
+            "id": "aaf077d5-75ea-4699-a7b1-9785c488a1a1",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://yukk.co.id"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "531b37ae-5ac8-4afb-b8fd-beb9f0dcc024",
+        "name": "Web Development"
+      },
+      {
+        "id": "134bf856-bef3-4506-81ac-89a19eccd748",
+        "name": "Full-stack Web Development"
+      },
+      {
+        "id": "19f03036-fe22-49db-b489-aa077986a98a",
+        "name": "Web Technologies"
+      },
+      {
+        "id": "71abec50-fc44-4b2e-a0b6-7de9fb64e7dc",
+        "name": "Web Applications"
+      },
+      {
+        "id": "94d7dee1-78be-4c18-b3cd-5e80ed0c76c9",
+        "name": "Web Application Frameworks"
+      },
+      {
+        "id": "b760877f-60bf-4281-9305-b613e170c9a8",
+        "name": "Web Application Design"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "52698ef2-bfb6-4f8b-9eb0-fc2404f84ddd",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Web Development jobs here!",
+      "keywords": "web developer jobs, front end developer jobs, front end web developer jobs, web development jobs in startups, web development career, php developer jobs, frontend developer jobs, developer jobs, web engineer jobs, engineering jobs",
+      "name": "Web Development"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "2d0f8ace-3395-4d9b-b73f-2bbfa49d18d1",
+    "status": "published",
+    "title": "Junior Product Manager (Fresh Graduate Welcome)",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 6000000,
+    "salary_max": 7000000,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<p>Responsibilities:</p>\n<ul><li>Translate business strategy into product strategy \u00a0</li>\n  <li>Own the product roadmap \u00a0</li>\n  <li>Execute product strategy \u00a0</li>\n  <li>Drive action throughout the organization to get products to market \u00a0</li>\n  <li>Plan and carry out product launches \u00a0</li>\n  <li>Manage product profitability and commercial success \u2013 own the business case \u00a0</li>\n  <li>Provide insight to stakeholders on the product and market \u00a0</li>\n  <li>Provide product marketing with insights on key differentiators and messages \u00a0</li>\n  <li>Write high-level requirements \u00a0</li>\n  <li>Support the Product Owner and Product Marketer with any questions they may have \u00a0</li>\n  <li>Manage all aspects of in-life products, including customer feedback, requirements, and issues\u00a0</li>\n  <li>Education : Psychology or Information Technology</li>\n</ul>\n\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 05:08:46",
+    "updated_at": "2021-12-29 05:13:06",
+    "expires_at": "2022-02-27 05:08:46",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "featured",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "59f5657e-340d-49f1-ad27-829f32aaa722",
+      "name": "Yogyakarta",
+      "locode": "ID JOG",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "e7cac0f4-c9d2-4d96-91ef-c65c547d5ba6",
+        "name": "Yogyakarta",
+        "subdiv_code": "YO"
+      }
+    },
+    "company": {
+      "id": "2a489ba4-e2cb-4943-ae5a-b4b4c417c981",
+      "name": "MyRobin Indonesia",
+      "date_founded": "2019-01-01",
+      "is_folded": false,
+      "employee_min_count": 11,
+      "employee_max_count": 50,
+      "pitch": "MyRobin Indonesia is an outsourcing service provider in Indonesia.",
+      "culture": "    <p>At MyRobin Indonesia, we are adaptable, energetic, open, passionate and collaborative.</p>\n\n    <p><b>Benefits and perks of working with us include:</b></p>\n\n    <p><b>Family benefits:</b> Paid maternity / paternity leave<br><b>Lifestyle:</b> Casual dress code, Flexible hours<br><b>Welfare:</b> Paid sick days<br></p>\n\n    \n  ",
+      "description": "MyRobin Indonesia is an outsourcing service provider in Indonesia.",
+      "business_models": [],
+      "entity": {
+        "id": "8c1fc0bc-5e9a-4577-8d26-44d59607916b",
+        "entityable_type": "company",
+        "entityable_id": "2a489ba4-e2cb-4943-ae5a-b4b4c417c981",
+        "slug": "myrobin-indonesia",
+        "claimed": 5,
+        "images": [
+          {
+            "id": "d444c0ce-9792-44ec-925e-8f4982ce6d53",
+            "url": "https://cdn.techinasia.com/data/images/9jxcZwoTBWYoJk4zgC71PQJp8MbzPlaUfCl59RdC.png",
+            "type": "avatar"
+          },
+          {
+            "id": "f6289c8b-82db-4e53-863d-107f40a6b7eb",
+            "url": "https://cdn.techinasia.com/data/images/RTGUdn2KxLQcGtalnstXXYAEQ6GMbTkDDymhXsDu.png",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "71353c77-13ac-436c-83ae-ec0f73433c41",
+            "name": "Human Resource",
+            "slug": "human-resource",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "0525d036-8b5e-426e-90f5-7e322d8974e2",
+            "city": {
+              "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+              "name": "Jakarta",
+              "locode": "ID JKT"
+            },
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "b003b7bc-2b13-4a74-b178-9adbd532fe3c",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/company/myrobinid"
+          },
+          {
+            "id": "7c98efee-e356-48f6-b027-768adf08b3b6",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "http://myrobin.id"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "f7e57b0a-9a01-4663-8fed-1fa5309f6bf8",
+        "name": "Project Management"
+      },
+      { "id": "9b3efe60-57e6-4ff6-a373-7f46aecb80ac", "name": "Jira" },
+      {
+        "id": "bcbb3497-70b4-457b-8d1c-23260ac07f0f",
+        "name": "Product Development"
+      },
+      {
+        "id": "adcfa2f1-196b-4713-9a29-91a9a62c97b5",
+        "name": "Product Management"
+      },
+      {
+        "id": "53d115a8-7dca-4012-b515-6c9bb5698fff",
+        "name": "Product Strategy"
+      },
+      {
+        "id": "1ce4f3b7-cff1-4f8f-b708-5cee0663aef3",
+        "name": "Product Research"
+      },
+      { "id": "26cb6060-c1d3-4cb0-a2b5-88580424d79b", "name": "Product Launch" }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "58fd4d82-53e3-474f-9834-12b9494f3872",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Project & Product Management jobs here!",
+      "keywords": "Project & Product management jobs, Project management jobs in startups, Product management jobs in startups, Project & Product management jobs salary, Project & Product management job description, Project & Product management jobs in asia, Project & Product management jobs in start ups, Project & Product management careers, hiring Project & Product management roles, Project & Product management jobs asia, startup Project & Product management jobs",
+      "name": "Project & Product Management"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "608bcb75-f31b-430b-9354-aa42a9cd3ce5",
+    "status": "published",
+    "title": "Senior Marketing Manager",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 25000000,
+    "salary_max": 35000000,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 7,
+    "experience_max": 10,
+    "description": "<p>We are looking for a candidate with a strong brand and marketing knowledge at our high-growth organization. You need to be hands-on, while also able to build and manage a team.\u00a0</p>\n<p>The right leader will be a marketing generalist with experience covering online and offline brand building, customer acquisition, Public Relations (PR), digital marketing, design, and B2B marketing-focused events to drive business and revenue growth.</p>\n<p><u><strong>RESPONSIBILITIES</strong></u><strong>:</strong></p>\n<p>\u25cf Generate overall marketing strategy, including offline marketing (branding, activation, partnership, and commercial strategies including the revenue-generating from the marketing division.\u00a0</p>\n<p>\u25cf Responsible to lead the marketing team that consists of 4 (four) pillars: Marketing Communication, Digital Marketing, Commercial - Activation, and Creative and content.\u00a0</p>\n<p>\u25cf Plan out major marketing monthly campaigns and Public Relations initiatives.</p>\n<p>\u25cf Coordinate with cross-functional departments (Sales, Operation, Community teams) to plan out key goals and outcomes.</p>\n<p>\u25cf Lead Digital Marketing strategies (SEM, SMM, and SEO) with the digital marketing team, including product marketing for GoWork App.</p>\n<p>\u25cf Develop, structure, and nurture relationships with all relevant and external partners, to achieve the company\u2019s target key metrics.\u00a0</p>\n<p>\u25cf Oversee the creative content and marketing messages distribution on all channels.</p>\n<p>\u25cf Create and manage marketing budget and be able to deliver results within budget.</p>\n<p>\u25cf Generate reports &amp; data analysis, including the competitors screening to C-level and management.</p>\n<p>\u25cf Achieve company\u2019s Objective Key Results and monitor Marketing KPIs</p>\n<p><u><strong>REQUIREMENTS:</strong></u></p>\n<p>\u25cf Work experience in the related field and have handled most of the responsibilities mentioned above for at least 5 years (suggested: 5-6 Years)</p>\n<p>\u25cf Bachelor degree from a reputable university, min GPA 3.00 from 4.00 Scale</p>\n<p>\u25cf Strategic and analytical thinker</p>\n<p>\u25cf Knowledge of the B2B and B2C and have vast connections with influencers and key opinion leaders (KOL)</p>\n<p>\u25cf Results-driven and able to ensure completion of tasks</p>\n<p>\u25cf Highly organized and detail-oriented</p>\n<p>\u25cf Excellent interpersonal, written, and communication skills (English and Indonesia)</p>\n<p>\u25cf Willing to work hard and has a proven track record toward details</p>\n<p>\u25cf Positive attitude and high maturity level and skill to lead the team</p>\n<p><u><em><strong>*Only shortlisted candidate that we will contact for further process</strong></em></u></p>\n<p>\u00a0</p>\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 06:24:19",
+    "updated_at": "2021-12-29 06:25:10",
+    "expires_at": "2022-02-27 06:24:19",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "featured",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+      "name": "Jakarta",
+      "locode": "ID JKT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "0915085d-5c74-4ed6-913f-c835252dd587",
+        "name": "Jakarta Raya",
+        "subdiv_code": "JK"
+      }
+    },
+    "company": {
+      "id": "5546c917-ff96-40af-b975-54cc019e43c0",
+      "name": "GoWork",
+      "date_founded": "2016-01-01",
+      "is_folded": false,
+      "employee_min_count": 51,
+      "employee_max_count": 200,
+      "pitch": "GoWork is Indonesia\u2019s coworking space with a mission to help people be their best by providing world-class workspaces that are inspiring and fully equipped with amenities and tools to help companies thrive.",
+      "culture": "<p>GoWork is Indonesia\u2019s leading premium coworking space. \u00a0Our mission and purpose of existence are to help people be their best by reinventing the way they work.\u00a0</p>\n<ol><li>We provide world-class workspaces that are fully equipped with amenities and layout in accordance with our researched spatial design.</li>\n  <li>We foster strong relationships within our diverse member community by facilitating collaborative discussions and hosting exclusive member activities.</li>\n  <li>We contribute to building Indonesia\u2019s startup ecosystem by hosting regular events for people from all interests, industries, and backgrounds.</li>\n  <li>We support our members with partnerships for services that meet their ongoing business needs and provide lifestyle benefits for their enjoyment.</li>\n  <li>We are uniquely technology-enabled with our GoWork app.</li>\n</ol>\n\n<p>Founded in 2016, our co-founders have combined their passions and decades of experience in Real Estate, Community Building, Finance, Operation, and Technology. GoWork operates over 25 hub locations, along with 20 satellite locations across Jakarta and Bali, that are bookable through our app. Our team continues to host more than 60 events each month, attracting over 1,000 attendees.</p>\n<p>Affiliated companies: Gobi Ventures, Convergence Ventures, 500 Startups, ISMAYA, Ideafest</p>\n<p><strong>BENEFITS AND PERKS</strong></p>\n<p><strong>Compensation</strong><br>\n \u00a0\u00a0\u00a0\u00a0\u00a0Competitive salary, learning &amp; education reimbursement</p>\n<p><strong>Lifestyle</strong><br>\n \u00a0\u00a0\u00a0\u00a0Casual dress code, flexible* locations, fun and engaging team, and work environment</p>\n<p><strong>Amenities</strong><br>\n \u00a0\u00a0\u00a0\u00a0Free food*, coffee &amp; tea\u00a0</p>\n<p><strong>Progression</strong><br>\n \u00a0\u00a0\u00a0\u00a0\u00a0A fast-growing company, dedicated Founders, training, and professional development</p>\n<p><strong>Welfare</strong><br>\n \u00a0\u00a0\u00a0\u00a0\u00a0Employee discounts, health insurance, paid sick days</p>\n<p><strong>And many more...</strong></p>\n<p><strong>GOWORK VALUES (IN.V.E.N.T)</strong></p>\n<ol><li><strong>INclusive</strong><br>\n . We have a strong spirit of collaboration and teamwork. \u00a0<br>\n . We believe that we can achieve bigger and greater things together and believe in the magic of a strong community.</li>\n  <li><strong>Vigorous</strong><br>\n . We take good care of our health (mind, body, and soul), which gives us full energy and mental sharpness. \u00a0<br>\n . Being healthy allows us to have positive energy, go the extra mile and deliver our best quality.</li>\n  <li><strong>Entrepreneurial</strong><br>\n . Each of us is an entrepreneur: we are competitive and have a desire to WIN!<br>\n . Dare to work hard and continuously build a growth mindset.<br>\n . Passionate and do things with purpose. <br>\n . Love challenges, find creative solutions, embrace continuous learning, and first grab opportunities.</li>\n  <li><strong>Noble</strong><br>\n . We always do the right thing and honor trustworthiness and integrity. \u00a0<br>\n . These are the things we do when no one is looking, no matter what our beliefs and religions are.</li>\n  <li><strong>Thankful</strong><br>\n . We are grateful and positive every moment and every day because we are blessed.</li>\n</ol>\n\n<p><u>If you share the above values, we urge you to apply!</u></p>\n<p><br></p>",
+      "description": "GoWork is Indonesia\u2019s coworking space with a mission to help people be their best by providing world-class workspaces that are inspiring and fully equipped with amenities and tools to help companies thrive.",
+      "business_models": [],
+      "entity": {
+        "id": "ede5f62d-d388-4af4-acf7-bbfdc5daa198",
+        "entityable_type": "company",
+        "entityable_id": "5546c917-ff96-40af-b975-54cc019e43c0",
+        "slug": "gowork-1",
+        "claimed": 1,
+        "images": [
+          {
+            "id": "084ca271-82e9-4da9-82ab-600903c63037",
+            "url": "https://cdn.techinasia.com/data/images/uuwrf4Zf76xytvkhwNx3THzMLL5sPSiZxHb8O4y0.png",
+            "type": "photo"
+          },
+          {
+            "id": "29e15bdf-0a05-4f53-895c-cbf81d6656f1",
+            "url": "https://cdn.techinasia.com/data/images/NhhLLmoN4UkGz1aFUOzvECPLmEYw8SiONFIe5OiG.png",
+            "type": "photo"
+          },
+          {
+            "id": "2b56cf9b-bead-4b47-9935-9d998d761318",
+            "url": "https://cdn.techinasia.com/data/images/vvtE2fKsrEdP5njtDdODzmaCPgIvLtQ4pXW4d9z4.png",
+            "type": "photo"
+          },
+          {
+            "id": "37c840a9-830d-438d-8836-2428a1ba894c",
+            "url": "https://cdn.techinasia.com/data/images/ceeXoVKZR1stb8YQJUEc0b5OxUSQjZt951793t9y.png",
+            "type": "photo"
+          },
+          {
+            "id": "908404ec-8f5f-42c5-8385-76988c5c6aaf",
+            "url": "https://cdn.techinasia.com/data/images/bdvbZcFnKceOEpCw7XaCh6To7KYpTnp51ri8js2Z.png",
+            "type": "photo"
+          },
+          {
+            "id": "a44fcc4b-f205-421c-8c24-814505ed9701",
+            "url": "https://cdn.techinasia.com/data/images/7cOzFVbxaBrmZ43NKMMe1f8SLB9L9hdRsziA00vC.png",
+            "type": "photo"
+          },
+          {
+            "id": "e978b6d0-ae92-4f40-ae9d-271b1b693dea",
+            "url": "https://cdn.techinasia.com/data/images/Sja3VKnGq6gm2FOVc3MA17WspgiS8TywP2uOjzmU.jpeg",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "159530d5-e175-45f3-85ee-e39030e90beb",
+            "name": "Coworking",
+            "slug": "coworking",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "cd7e1178-169c-4ec1-a6b8-821363f161af",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "a1c6768f-6c26-4b3a-8210-1e4475e2c5fe",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/company/letsgowork"
+          },
+          {
+            "id": "3ad9c1d8-0c83-48ed-8b49-7b26fad13442",
+            "site": {
+              "id": "19d9d2e7-0d32-471e-b934-a059d95a0262",
+              "name": "Facebook",
+              "company_order": 2,
+              "order": 2,
+              "prefix": "www.facebook.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.facebook.com/letsgowork"
+          },
+          {
+            "id": "139417e0-f0dd-4f03-b2c7-19b876bc71e8",
+            "site": {
+              "id": "a328a36d-81f4-47f1-9d17-c63c4c911ff4",
+              "name": "Instagram",
+              "company_order": 13,
+              "order": 4,
+              "prefix": "www.instagram.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.instagram.com/lets.gowork"
+          },
+          {
+            "id": "37b27711-ee47-4381-8501-1a72ce825ade",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://go-work.com"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "0bb65880-73ef-4f35-859e-57327f8988f0",
+        "name": "Marketing Strategy"
+      },
+      {
+        "id": "2664bebe-1660-4309-bfbb-ee91edf3cafc",
+        "name": "Public Relations"
+      },
+      {
+        "id": "2bf52b58-2219-4b66-a8bf-e415458e342f",
+        "name": "Social Media Marketing"
+      },
+      {
+        "id": "87c6b2bf-f4cc-436c-b2e1-7328b1050e9b",
+        "name": "Digital Marketing"
+      },
+      {
+        "id": "8a78ba3d-e150-4412-83b8-4edcd6f09e73",
+        "name": "Social Media Strategy"
+      },
+      {
+        "id": "dbfa1421-b3f9-4655-b86f-266862a2a41c",
+        "name": "Strategic Partnerships"
+      },
+      {
+        "id": "f22d04b4-23d6-42fd-b0ad-255a491b08f3",
+        "name": "Marketing Communications"
+      },
+      {
+        "id": "f92c0f73-0f93-4ae6-9ae5-721b33319bcc",
+        "name": "Online Marketing"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "8ba29919-9179-4981-8570-ab185d14f915",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Marketing & PR jobs here!",
+      "keywords": "digital marketing jobs, marketing manager jobs, social media marketing startups, Marketing & PR jobs, Marketing jobs in startups, Marketing & PR jobs salary, Marketing & PR job description, Marketing & PR jobs in asia, Marketing & PR jobs in start ups, Marketing & PR careers, hiring Marketing & PR roles, Marketing & PR jobs asia, startup Marketing & PR jobs",
+      "name": "Marketing & PR"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "3a43df28-fd89-4736-8105-5f7ed6edbae9",
+    "status": "published",
+    "title": "Account Payable Associate",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 5000000,
+    "salary_max": 8000000,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<p><u><strong>About Rukita</strong></u></p>\n<p>Rukita is the nation\u2019s leading community-driven proptech company, improving urban living across major cities and for hundreds of members. We perfect the modern hassle-free rental experience using our unique approach, designing and operating co-living experiences.</p>\n<p>Rukita\u2019s design-driven and end-to-end property management services - powered by technology - allows us to meet the needs of today\u2019s urban living. Focusing on community, convenience and experience, we constantly push the boundaries of quality lives at an affordable price.</p>\n<p>The Rukita family is made out of a motley crew of real estate professionals, engineers, technologists, community builders, designers, marketers, happiness officers, and so much more. As a family, we work cohesively, collaboratively, value entrepreneurship, and do whatever it takes to deliver happiness in a living space.</p>\n<p><u><strong>Responsibility</strong></u></p>\n<ul><li>Manage AP cycle for the following categories: monthly billings, third party payments, daily expenses, petty cash, reimbursements, and miscellaneous expenses \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n    <ul><li>Audit and review weekly and monthly bills, and ensure all requirements are received in accordance with company policies before submissions.</li>\n      <li>Data entry and posting of invoices to Master Account Payables</li>\n      <li>Provide timely and accurate payment lists to the cashier according to the payment schedule.</li>\n      <li>Perform payment processing in accordance with company guidelines and vendor payment terms.</li>\n      <li>Perform reconciliations of AP-related accounts and resolution of associated issues.</li>\n      <li>Manage month-end closing reports, including AP reports.</li>\n    </ul></li>\n  <li>Work closely with internal and external business partners to resolve AP inquiries in a timely manner</li>\n  <li>Optimize the payment operation process, identify risks and opportunities, and take a proactive approach to improve the payment system.</li>\n</ul>\n\n<p><u><strong>Qualifications</strong></u>:</p>\n<ul><li>Bachelor\u2019s degree in business administration, accounting, finance, or related fields.</li>\n  <li>2-3 years experience in account payable.</li>\n  <li>Knowledge of account payable principles, a thorough understanding of applicable AP system, financial chart of accounts, and procedures.</li>\n  <li>Having experience using accounting system would prioritize such as SAP, etc.</li>\n  <li>Possess time management skills with the ability to prioritize job tasks effectively.</li>\n  <li>Ability to adapt to changing organizational and operational needs.</li>\n  <li>Detail-oriented, professional attitude, reliable.</li>\n  <li>Ability to work independently and with a team in a fast-paced and high-volume environment with an emphasis on accuracy and timeliness.</li>\n  <li>Proficient in MS Office: Excel, Word, PowerPoint, experience in accounting system Xero is a plus.</li>\n</ul>\n\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 04:29:49",
+    "updated_at": "2021-12-29 04:29:49",
+    "expires_at": "2022-02-27 04:29:49",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+      "name": "Jakarta",
+      "locode": "ID JKT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "0915085d-5c74-4ed6-913f-c835252dd587",
+        "name": "Jakarta Raya",
+        "subdiv_code": "JK"
+      }
+    },
+    "company": {
+      "id": "eaf8baaf-56ed-456d-a801-65729f729f9d",
+      "name": "Rukita",
+      "date_founded": "2019-04-01",
+      "is_folded": false,
+      "employee_min_count": 201,
+      "employee_max_count": 500,
+      "pitch": "Rukita aims to revitalize the real estate industry with tech. Rukita wants to repurpose under-utilized real estate to create affordable quality living spaces for millennials.",
+      "culture": "<p>At Rukita, we are adaptable, collaborative, fast paced, progressive and passionate.</p>\n<p><strong>Benefits and perks of working with us include:</strong></p>\n<p><strong>Compensation:</strong> Competitive salaries<br><strong>Lifestyle:</strong> Flexible hours<br><strong>Progression:</strong> Professional development<br><strong>Welfare:</strong> Employee discounts, Health insurance<br></p>\n<p><br></p>",
+      "description": "Rukita aims to revitalize the real estate industry with tech. Rukita wants to repurpose under-utilized real estate to create affordable quality living spaces for millennials.",
+      "business_models": [],
+      "entity": {
+        "id": "009f9086-e3e9-4189-939a-402c816d555d",
+        "entityable_type": "company",
+        "entityable_id": "eaf8baaf-56ed-456d-a801-65729f729f9d",
+        "slug": "rukita",
+        "claimed": 9,
+        "images": [
+          {
+            "id": "11bdd3c2-f095-484b-accb-687b970d52c7",
+            "url": "https://cdn.techinasia.com/data/images/xHmHxPHCHEHSqT33CP00DhYUkDwGeXbxkwcTpFa1.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "12cb4df8-236f-4a2a-b5b8-7606f6246587",
+            "url": "https://cdn.techinasia.com/data/images/MvI3lyclxfZLLwGTzJI9aYIpha0HG1COpc14hBbG.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "33f40a57-c4dc-44ba-b1a4-878db9617a94",
+            "url": "https://cdn.techinasia.com/data/images/Kbu5s9QJrVPsiO4x6IIp8pwGUHEHNj9UenFl9QVH.png",
+            "type": "photo"
+          },
+          {
+            "id": "97f48ed9-2dac-4603-9165-1ae6857ace94",
+            "url": "https://cdn.techinasia.com/data/images/ZKAJetgUUcjyxcOpvf9pOn1LfpYqRLzRUbQbzpp2.png",
+            "type": "photo"
+          },
+          {
+            "id": "a42ba938-2e50-4ecf-acec-c63ce4255a4c",
+            "url": "https://cdn.techinasia.com/data/images/Vsnx4F9VS7c6Ci0N7QSwRpmHdnG3TGnvUJTr5XVA.png",
+            "type": "photo"
+          },
+          {
+            "id": "bfdaa699-a64a-472f-8c86-acf75412ba26",
+            "url": "https://cdn.techinasia.com/data/images/LJbrVfrm9Ac1ul1IdPlvGOk8plUWlLxgTtljmWxb.png",
+            "type": "avatar"
+          },
+          {
+            "id": "da7da769-94e7-4367-bd74-832fafdf8a05",
+            "url": "https://cdn.techinasia.com/data/images/DlgCQfqCtNx8A9xPSv6z9BFx1drwapUTbCrPCNaB.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "ef1591ad-9878-449f-92aa-3f52209fb615",
+            "url": "https://cdn.techinasia.com/data/images/omARDWr7klLKDx7UowAVzUCEd0p04hWYJm0wXXAr.png",
+            "type": "photo"
+          },
+          {
+            "id": "f64a4117-eda0-4780-be18-6fa61821044a",
+            "url": "https://cdn.techinasia.com/data/images/miHGOxvJ36p8DpTpNjo5fiiPAJftQxjUcA1a6oMl.png",
+            "type": "photo"
+          },
+          {
+            "id": "f762322a-3303-47b8-b647-3388974e8047",
+            "url": "https://cdn.techinasia.com/data/images/WmN7xM50GrsiaD7Qkjd43bD1jmyQU4jntmwOarYx.jpeg",
+            "type": "photo"
+          }
+        ],
+        "industries": [
+          {
+            "id": "a8c81b09-bbe6-4189-85d5-0ef90411c7ab",
+            "name": "Marketplaces (Property)",
+            "slug": "marketplaces-property",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "1643569e-d1b1-41ec-b513-15f9e4fec68b",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "b08438e8-7975-4f65-a884-32d195fe8f80",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "http://www.linkedin.com/company/rukita"
+          },
+          {
+            "id": "cff2cb5b-9808-463a-b3ca-063fa5a20158",
+            "site": {
+              "id": "19d9d2e7-0d32-471e-b934-a059d95a0262",
+              "name": "Facebook",
+              "company_order": 2,
+              "order": 2,
+              "prefix": "www.facebook.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.facebook.com/rukitaco"
+          },
+          {
+            "id": "2afd77b8-4d71-4268-8899-dbdb4fff64a9",
+            "site": {
+              "id": "20cafb7e-3aef-4a87-a2d3-ed4ca39e25ee",
+              "name": "Twitter",
+              "company_order": 4,
+              "order": 3,
+              "prefix": "twitter.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://twitter.com/rukita_id"
+          },
+          {
+            "id": "dd952dbd-6339-4b36-a057-06320831a74c",
+            "site": {
+              "id": "a328a36d-81f4-47f1-9d17-c63c4c911ff4",
+              "name": "Instagram",
+              "company_order": 13,
+              "order": 4,
+              "prefix": "www.instagram.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.instagram.com/rukita_indo"
+          },
+          {
+            "id": "9713bb45-31fb-4a9c-953d-8a04a9daf70f",
+            "site": {
+              "id": "5a0d6262-8837-464f-af79-83b6acbf7a31",
+              "name": "Video",
+              "company_order": 14,
+              "order": 12,
+              "prefix": "youtube.com/",
+              "is_prefix_editable": true
+            },
+            "url": "http://youtube.com/channel/UCVIh9i_P-birCpTZ71IRoAg"
+          },
+          {
+            "id": "28d5b735-280d-4a98-b157-518f696e08c8",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "http://www.rukita.co/"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "1371c3e6-deb0-4ec0-82b0-e35269fad8dd",
+        "name": "Corporate Finance"
+      },
+      { "id": "28e96523-6b14-4b1a-af14-25feb91f8cbd", "name": "Accounting" },
+      {
+        "id": "3131d3ab-c875-4346-98bc-f9e6bbe8e4df",
+        "name": "Accounts Payable"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "2485f8e0-68c6-49ab-92bd-1a692a9557ef",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Finance, Legal & Accounting jobs here!",
+      "keywords": "Finance jobs in startups, Legal jobs in startups, Accounting jobs in startups, Finance job description, Legal job description, Accounting job description, Finance jobs in Asia, Legal jobs in Asia, Accounting jobs in asia, Finance jobs in start ups, Legal jobs in start ups, Account jobs in start ups finance careers",
+      "name": "Finance, Legal & Accounting"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "70efa3fa-733d-4543-af17-c627eeb1e6e1",
+    "status": "published",
+    "title": "Sales Acquisition Fintech - Tangerang",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 4300000,
+    "salary_max": 5500000,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<p>Kualifikasi:</p>\n<p>- Minimal SMA/SMK sederajat</p>\n<p>- Maksimal usia 40 tahun</p>\n<p>- Domisili di Jabodetabek</p>\n<p>- Berpengalaman sebagai sales atau marketing setidaknya selama satu tahun</p>\n<p>- Siap bekerja mobile dan bekerja dengan target</p>\n<p>- Memiliki motor pribadi</p>\n<p>\u00a0</p>\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 06:37:39",
+    "updated_at": "2021-12-29 06:37:39",
+    "expires_at": "2022-02-27 06:37:39",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "92cdb8b5-3ae5-41fd-a2d6-72c829e37c5d",
+      "name": "Tangerang",
+      "locode": "ID TRG",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "4ee82620-5378-4395-9f0e-692280e94891",
+        "name": "Banten",
+        "subdiv_code": "BT"
+      }
+    },
+    "company": {
+      "id": "2a489ba4-e2cb-4943-ae5a-b4b4c417c981",
+      "name": "MyRobin Indonesia",
+      "date_founded": "2019-01-01",
+      "is_folded": false,
+      "employee_min_count": 11,
+      "employee_max_count": 50,
+      "pitch": "MyRobin Indonesia is an outsourcing service provider in Indonesia.",
+      "culture": "    <p>At MyRobin Indonesia, we are adaptable, energetic, open, passionate and collaborative.</p>\n\n    <p><b>Benefits and perks of working with us include:</b></p>\n\n    <p><b>Family benefits:</b> Paid maternity / paternity leave<br><b>Lifestyle:</b> Casual dress code, Flexible hours<br><b>Welfare:</b> Paid sick days<br></p>\n\n    \n  ",
+      "description": "MyRobin Indonesia is an outsourcing service provider in Indonesia.",
+      "business_models": [],
+      "entity": {
+        "id": "8c1fc0bc-5e9a-4577-8d26-44d59607916b",
+        "entityable_type": "company",
+        "entityable_id": "2a489ba4-e2cb-4943-ae5a-b4b4c417c981",
+        "slug": "myrobin-indonesia",
+        "claimed": 5,
+        "images": [
+          {
+            "id": "d444c0ce-9792-44ec-925e-8f4982ce6d53",
+            "url": "https://cdn.techinasia.com/data/images/9jxcZwoTBWYoJk4zgC71PQJp8MbzPlaUfCl59RdC.png",
+            "type": "avatar"
+          },
+          {
+            "id": "f6289c8b-82db-4e53-863d-107f40a6b7eb",
+            "url": "https://cdn.techinasia.com/data/images/RTGUdn2KxLQcGtalnstXXYAEQ6GMbTkDDymhXsDu.png",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "71353c77-13ac-436c-83ae-ec0f73433c41",
+            "name": "Human Resource",
+            "slug": "human-resource",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "0525d036-8b5e-426e-90f5-7e322d8974e2",
+            "city": {
+              "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+              "name": "Jakarta",
+              "locode": "ID JKT"
+            },
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "b003b7bc-2b13-4a74-b178-9adbd532fe3c",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/company/myrobinid"
+          },
+          {
+            "id": "7c98efee-e356-48f6-b027-768adf08b3b6",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "http://myrobin.id"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "f6ce96f7-3b51-4867-bab4-5a50aabc4a8c",
+        "name": "Sales & Marketing"
+      },
+      {
+        "id": "04712876-6722-4d28-b857-8f39ef064379",
+        "name": "Business Development & Partnerships"
+      },
+      { "id": "504d702a-03fd-4e90-9794-580ccb1db342", "name": "Sales" },
+      { "id": "7199071d-c841-492d-ab94-b3dd199ffd06", "name": "Salesforce" },
+      {
+        "id": "dbfa1421-b3f9-4655-b86f-266862a2a41c",
+        "name": "Strategic Partnerships"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "8f7f42f6-34c6-4dbe-a571-a0489d500bc0",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Sales & Business Development jobs here!",
+      "keywords": "sales & business development jobs, business development jobs in startups, sales job salary, business development job description, sales jobs in asia, business development jobs in start ups, sales & business development careers, hiring sales & business development roles, business development jobs asia, startup sales & business development jobs",
+      "name": "Sales & Business Development"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "3559cdfd-cc95-47e0-9a94-d1c21e4189ec",
+    "status": "published",
+    "title": "Legal Manager",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 18000000,
+    "salary_max": 25000000,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 7,
+    "experience_max": 10,
+    "description": "<p><strong>Responsibilities:\u00a0</strong></p>\n<p>\u00b7 Offering counsel on a variety of Legal Issue, including but not limited to advisory, agreement drafting, agreement reviewing, legal analysis and product exploration and risk identification.</p>\n<p>\u00b7 Working alongside other departments within the company\u00a0</p>\n<p>\u00b7 Advising on contract status, legal risks, and the legal liabilities associated with different deals.</p>\n<p>\u00b7 Researching and anticipating unique legal issues that could impact the company.</p>\n<p>\u00b7 Leading corporate legal strategy to protect the company's interests.</p>\n<p>\u00b7 Providing continued support on the creation, standardization and implementation of company\u2019s legal compliance, policies, terms &amp; conditions, internal working procedures and standard operational guidelines.</p>\n<p><strong>Requirements:\u00a0</strong></p>\n<p>\u00b7 Having minimum 6 years of experience as legal counsel, preferably a mix of law firm and in house experience</p>\n<p>\u00b7 Must have a strong strategic thinking.</p>\n<p>\u00b7 Implement and maintain contracts management system</p>\n<p>\u00b7 Review and revise a variety of contracts and other legal documents</p>\n<p>\u00b7 Giving continued support on the creation, standardization and implementation of legal compliance, policies, terms &amp; conditions, internal working procedures and standard operational guidelines</p>\n<p>\u00b7 Strong drafting, negotiation and client communication skills both in English and Indonesian</p>\n<p>\u00b7 Have a good leadership skills to work with cross-functional teams and all relevant stakeholders.</p>\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 06:55:56",
+    "updated_at": "2021-12-29 06:55:56",
+    "expires_at": "2022-02-27 06:55:56",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+      "name": "Jakarta",
+      "locode": "ID JKT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "0915085d-5c74-4ed6-913f-c835252dd587",
+        "name": "Jakarta Raya",
+        "subdiv_code": "JK"
+      }
+    },
+    "company": {
+      "id": "0f6581d7-b612-4554-b81d-381e82f976ad",
+      "name": "Komodo",
+      "date_founded": null,
+      "is_folded": false,
+      "employee_min_count": 11,
+      "employee_max_count": 50,
+      "pitch": "Komodo helps you make faster and more efficient procurement decisions. Our mission is to create a procurement platform that is efficient, seamless, and compliant. \n\nOur platform is designed with the needs of real procurement users in mind. \n",
+      "culture": "<p>At Komodo, we are collaborative, nurturing, passionate, driven, and innovative.</p>\n<p><strong>Benefits and perks of working with us include:</strong></p>\n<p><strong>Compensation:</strong> Competitive salaries<br><strong>Lifestyle:</strong> Casual dress code<br><strong>Progression:</strong> Professional development<br><strong>Welfare:</strong> Paid sick days, Private Health Insurance, BPJS<br></p>\n<p><br></p>",
+      "description": null,
+      "business_models": [],
+      "entity": {
+        "id": "a5bd95b3-b445-4529-905f-604839478cb4",
+        "entityable_type": "company",
+        "entityable_id": "0f6581d7-b612-4554-b81d-381e82f976ad",
+        "slug": "komodo",
+        "claimed": 9,
+        "images": [
+          {
+            "id": "314b2dbe-cc8c-46b9-ab2e-c9850da99f1e",
+            "url": "https://cdn.techinasia.com/data/images/4XKbkVwlfdSJnycc8G6ie5xNUGD8rARHzwGpBWfs.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "66460169-a3e6-4968-b791-b9ca442ec25f",
+            "url": "https://cdn.techinasia.com/data/images/8OCKQAcx8TT3GvwpNcmFi4BWOBRWNY3XTaFE79ec.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "6b7b644d-787d-4c13-8465-e047441f32b2",
+            "url": "https://cdn.techinasia.com/data/images/Zpt7LuhoMXjND6PLapjYjZzncrGrpUY2Zpd6r15B.png",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "8371980c-afb1-4e5c-be38-6146a94177d0",
+            "name": "B2B ecommerce",
+            "slug": "b2b-ecommerce",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "5875470e-e293-49b6-bf3e-f21ca28c4efd",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "5daf189a-653b-47a8-8be2-14006d2876a9",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "https://gokomodo.co/"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "a76869f7-8dcd-4641-87ff-792fc32e84c6",
+        "name": "Contract Negotiations"
+      },
+      { "id": "eaac8f13-7ad5-43c9-bd56-be97d7f68c49", "name": "Drafting" },
+      { "id": "8be1d2d2-9cb1-4b8e-907c-bd47c3f9d10c", "name": "Legal" }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "2485f8e0-68c6-49ab-92bd-1a692a9557ef",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Finance, Legal & Accounting jobs here!",
+      "keywords": "Finance jobs in startups, Legal jobs in startups, Accounting jobs in startups, Finance job description, Legal job description, Accounting job description, Finance jobs in Asia, Legal jobs in Asia, Accounting jobs in asia, Finance jobs in start ups, Legal jobs in start ups, Account jobs in start ups finance careers",
+      "name": "Finance, Legal & Accounting"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "46d70784-390b-4042-a509-8a23ab835fcd",
+    "status": "published",
+    "title": "Business Analyst - General Trade",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 0,
+    "salary_max": 0,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<p><strong>Job Description\u00a0</strong></p>\n<ol><li>Work closely with Head of Category supporting various initiatives and special projects.</li>\n  <li>Understanding of business unit process, which covers end-to-end business, operations and product development to identify key opportunities.</li>\n  <li>Define, monitor and evaluate key business metrics, conducting analysis that leads to actionable insights for business and operational improvements.</li>\n  <li>Develop workflow, SOP and blueprint for core business processes, benchmark to industry best practices.</li>\n  <li>Acting as PMO to manage ongoing projects with multiple stakeholders.</li>\n</ol>\n\n<p><strong>Requirements</strong></p>\n<ol><li>Bachelor's Degree in any major, preferably in Business Management/MBA, Engineering or Computer Science.</li>\n  <li>Fresh graduates with relevant internship experience and graduates &lt;2 years working experience in fast-paced environment are welcomed to apply.</li>\n  <li>Highly analytical with a structured approach to problem-solving.</li>\n  <li>Ability to learn independently and quickly, with a strong \"team player\" attitude.</li>\n  <li>Exceptional communication/public speaking skills for stakeholder management.</li>\n  <li>Excellent time-management and adaptability skills to meet tight deadlines and balance simultaneous workstreams.</li>\n</ol>\n\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 06:42:10",
+    "updated_at": "2021-12-29 06:51:50",
+    "expires_at": "2022-02-27 06:42:10",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "0022636b-3eb2-4b3c-be8c-19802e68db8b",
+      "name": "Indonesia Bulk Terminal",
+      "locode": "ID IBT",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": {
+        "id": "17f69a5a-72c8-4a34-9f60-3627272c0eb8",
+        "name": "Kalimantan Selatan",
+        "subdiv_code": "KS"
+      }
+    },
+    "company": {
+      "id": "685913a6-9405-4390-ac68-0a68a14f129d",
+      "name": "Payfazz (PT. Payfazz Teknologi Nusantara)",
+      "date_founded": "2016-03-08",
+      "is_folded": false,
+      "employee_min_count": 201,
+      "employee_max_count": 500,
+      "pitch": "PAYFAZZ provides payment facilities such as money transfer, phone credit, electricity bill, game, e-commerce, and merchant payment. We are building distributed network agents in Indonesia.",
+      "culture": "<p><strong>What we care about</strong></p>\n<p><strong>Start Small : </strong>In Payfazz we believe that every work is meaningful, nothing is too big or too small. Every e-mail, presentation, and code has build what we have today. Give your best in every step of the way, and in turn you will make something amazing happen.</p>\n<p><strong>Take a lead :</strong> We believe that everyone is capable to improve the status quo. Here at Payfazz, we encourage everyone to take a lead in doing their work. By giving them the autonomy and ownership that they need, they will unleash their creativity and keep looking for the best practice.</p>\n<p><strong>Eager to grow :</strong> In every part of our work, there is always room for improvement and growth. We believe that every moment is an opportunity to improve yourself and your work. People at Payfazz are encourged to learn hard, work hard, and play hard.</p>\n<p><strong>Pro-Customer :</strong> Be thoughtful and alert to the needs of others. Act to understand and respond appropriately by always upholding integrity as well as being aware of the risk in everything we do.</p>\n<p><strong>About our Company &amp; Team</strong></p>\n<p>PAYFAZZ is an Indonesian financial technology company, founded in 2016 by three childhood friends, that aims to empower small medium enterprise &amp; the rural populations with technology to build Indonesia's digital economy. Currently, PAYFAZZ has over 400 employees in four cities in Indonesia.</p>\n<p>In 2017 PAYFAZZ was seeded by Y Combinator, and in 2019 PAYFAZZ was included in Y Combinator\u2019s Top 100 Companies. PAYFAZZ also had the honor of being crowned FORBES 30 Under 30, being named as the fastest moving businesses of the SME sector, and being the Best Company to work for in Asia.\u00a0</p>\n<p><br></p>",
+      "description": "Payfazz provides payment facilities such as money transfer, phone credit, electricity bill, game, e-commerce, and merchant payment.",
+      "business_models": [
+        {
+          "id": "14a13c7c-ba7c-40d6-bb32-61ff138e0be2",
+          "name": "Affiliate",
+          "description": "The affiliate model, provides purchase opportunities wherever people may be surfing. It does this by offering financial incentives (in the form of a percentage of revenue) to affiliated partner sites. E.g. Amazon affiliate program"
+        }
+      ],
+      "entity": {
+        "id": "50fbeaee-db4a-4a28-b20d-b3d92f080b40",
+        "entityable_type": "company",
+        "entityable_id": "685913a6-9405-4390-ac68-0a68a14f129d",
+        "slug": "payfazz-pt-payfazz-teknologi-nusantara",
+        "claimed": 9,
+        "images": [
+          {
+            "id": "0869f730-b8c1-4c78-aeb2-94f71377b7f4",
+            "url": "https://cdn.techinasia.com/data/images/DPKvDTReZAbS8G7HC85EVILiXLtoeeKq2MaBtODJ.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "0f0e9d9b-fdf3-42aa-9bf9-b5fe5e2455b4",
+            "url": "https://cdn.techinasia.com/data/images/zUKS4U840zLiIP9bKp5q5naWj1gNBYthTJsL5mqm.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "15666d20-1b5c-471b-8e37-33e91507e223",
+            "url": "https://cdn.techinasia.com/data/images/4Cprsca7lDUf1FWGaNMlfSxfFG2wT5Gtgv8j6HHv.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "21be45be-e043-44b0-88b6-0ad925e906a1",
+            "url": "https://cdn.techinasia.com/data/images/H9VKdEfPlqXifAoCcCggwQzJGvsAD52CrjCE7h4d.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "22b66815-730f-4795-82b0-8646a8a746ed",
+            "url": "https://cdn.techinasia.com/data/images/sJ46U4gTP4cpoodoAy0DiQRnxfRkWDFLWCmCXmlM.png",
+            "type": "avatar"
+          },
+          {
+            "id": "90e1f834-eceb-435c-a262-003186a8183c",
+            "url": "https://cdn.techinasia.com/data/images/wToBMm7OI71tkGHGp49VhXDjGql9HcXMHSHMyBs5.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "9c2f2a0c-5f9c-4731-981c-44dd447eb1fb",
+            "url": "https://cdn.techinasia.com/data/images/IfKKNH6v6e3IKI4sLrso9YmN3vkptutGPfEYbHLp.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "a168c5ba-9258-4951-8b60-b7d4d982e9b3",
+            "url": "https://cdn.techinasia.com/data/images/M4yBGnAL4CsAxceA33YKbv5aPZ18FVjfOEAvBX11.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "b14b045b-b189-43cc-9d41-d5b67ce8303e",
+            "url": "https://cdn.techinasia.com/data/images/cFv1Uqn8ERe50nElVgakW7tZeK1y5tXz2wL98YhJ.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "c88edfc0-1bb7-4d09-81cf-446c63582885",
+            "url": "https://cdn.techinasia.com/data/images/NPi0DlfjvzkEdvrXF14V9Lg5o2z5WbaQNqnHorIM.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "d8bd13eb-33e3-4e9d-a592-5c68ca35c145",
+            "url": "https://cdn.techinasia.com/data/images/QRCborx3yoYY6Qa9GPAP9i4rfDDvulDIoo5vn7Fs.jpeg",
+            "type": "photo"
+          },
+          {
+            "id": "ff7a9682-17f5-425a-bba0-c80f8ce6cc5c",
+            "url": "https://cdn.techinasia.com/data/images/DUd8ix6ND2Mti9vGWfUl7pa1b7cYhXJdjRgmrAh8.jpeg",
+            "type": "photo"
+          }
+        ],
+        "industries": [
+          {
+            "id": "1e591e72-606b-4035-9c31-c426b0836437",
+            "name": "Payments and remittance",
+            "slug": "mobile-payments",
+            "description": "Businesses which facilitate transactions between consumers and other consumers."
+          }
+        ],
+        "locations": [
+          {
+            "id": "ea7363b7-edb7-453f-9362-4719cbec6d7c",
+            "city": null,
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "94ff92d1-6f4b-45b2-bafd-c7b7c1aa5fec",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/company/payfazz.com"
+          },
+          {
+            "id": "590e7de4-fdb7-4011-8c5a-1b0920d15a6c",
+            "site": {
+              "id": "19d9d2e7-0d32-471e-b934-a059d95a0262",
+              "name": "Facebook",
+              "company_order": 2,
+              "order": 2,
+              "prefix": "www.facebook.com/",
+              "is_prefix_editable": false
+            },
+            "url": "https://www.facebook.com/payfazz"
+          },
+          {
+            "id": "ef6df689-871e-4fbd-b2ac-bccfb54aaa09",
+            "site": {
+              "id": "20cafb7e-3aef-4a87-a2d3-ed4ca39e25ee",
+              "name": "Twitter",
+              "company_order": 4,
+              "order": 3,
+              "prefix": "twitter.com/",
+              "is_prefix_editable": false
+            },
+            "url": "https://twitter.com/payfazz"
+          },
+          {
+            "id": "d33f9f70-e6dc-4e61-9052-f2a4422ac7df",
+            "site": {
+              "id": "a328a36d-81f4-47f1-9d17-c63c4c911ff4",
+              "name": "Instagram",
+              "company_order": 13,
+              "order": 4,
+              "prefix": "www.instagram.com/",
+              "is_prefix_editable": false
+            },
+            "url": "http://www.instagram.com/lifeatfazz/"
+          },
+          {
+            "id": "5bb54807-560b-496e-ad8e-cf60603934b5",
+            "site": {
+              "id": "65817c4c-c1c1-4d76-a176-96c682e30234",
+              "name": "Android App",
+              "company_order": 10,
+              "order": 14,
+              "prefix": "play.google.com/store/apps/",
+              "is_prefix_editable": true
+            },
+            "url": "http://play.google.com/store/apps/details?id=com.payfazz.dompet"
+          },
+          {
+            "id": "84d4dd3c-5e4e-42ff-b6c6-8ee7d910ad97",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "http://www.payfazz.com"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      { "id": "02593dce-6efc-44e7-95db-cbacecf9894e", "name": "E-commerce" },
+      { "id": "1bdf4159-2d4c-4e1a-a77f-06b3156cef36", "name": "Management" },
+      {
+        "id": "700070fe-b981-4cc4-bc64-2a03af127fdf",
+        "name": "Business Analysis"
+      },
+      { "id": "7635a548-5a6a-4968-bf5c-ddb583b17958", "name": "Engineering" },
+      {
+        "id": "959befd2-1848-4c9a-97a5-412bcfa0565f",
+        "name": "New Business Development"
+      },
+      { "id": "976b323e-b78e-4d9f-855f-cebf036a73ab", "name": "Business Plan" },
+      {
+        "id": "99c9576b-4483-4930-99f3-9487742b88ec",
+        "name": "Business Planning"
+      },
+      {
+        "id": "9a3f17f5-ab14-44b3-97c6-3be0f58c5aee",
+        "name": "Time Management"
+      },
+      {
+        "id": "b3ca56fe-d44d-4b94-9022-bb432b549744",
+        "name": "Business Strategy"
+      },
+      {
+        "id": "c93e386c-260a-41e1-aacb-b4772ffe54b5",
+        "name": "Communication Skills"
+      },
+      {
+        "id": "d24d8661-9012-4339-a851-c65a910a6db7",
+        "name": "Business Management"
+      },
+      {
+        "id": "e6bb0ba3-e01e-4e3e-9f60-a06258a95358",
+        "name": "Communications"
+      },
+      { "id": "f658af75-f0ed-461c-8796-d50bc5018568", "name": "Negotiation" }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "8f7f42f6-34c6-4dbe-a571-a0489d500bc0",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Sales & Business Development jobs here!",
+      "keywords": "sales & business development jobs, business development jobs in startups, sales job salary, business development job description, sales jobs in asia, business development jobs in start ups, sales & business development careers, hiring sales & business development roles, business development jobs asia, startup sales & business development jobs",
+      "name": "Sales & Business Development"
+    },
+    "taxonomies": []
+  },
+  {
+    "id": "bd4819a0-0175-4275-9a7a-b842f547571f",
+    "status": "published",
+    "title": "Sales Acquisition Fintech - Bekasi ",
+    "is_remote": false,
+    "is_salary_visible": true,
+    "salary_min": 4300000,
+    "salary_max": 5500000,
+    "has_equity": false,
+    "vacancy_count": 1,
+    "experience_min": 1,
+    "experience_max": 4,
+    "description": "<p>Kualifikasi:</p>\n<p>- Minimal SMA/SMK sederajat</p>\n<p>- Maksimal usia 40 tahun</p>\n<p>- Domisili di Jabodetabek</p>\n<p>- Berpengalaman sebagai sales atau marketing setidaknya selama satu tahun</p>\n<p>- Siap bekerja mobile dan bekerja dengan target</p>\n<p>- Memiliki motor pribadi</p>\n<p>\u00a0</p>\n<p><br></p>",
+    "external_link": "",
+    "published_at": "2021-12-29 06:39:07",
+    "updated_at": "2021-12-29 06:39:07",
+    "expires_at": "2022-02-27 06:39:07",
+    "permissions": { "can_edit": false, "can_manage_applicants": false },
+    "is_featured": "unavailable",
+    "is_saved": false,
+    "is_using_paid_quota": false,
+    "saved_job_id": null,
+    "applied_job_id": null,
+    "application_status": null,
+    "city": {
+      "id": "c847a8db-7df6-45ad-81e6-a826ac8e923b",
+      "name": "Bekasi",
+      "locode": "ID BKA",
+      "country": {
+        "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "name": "Indonesia",
+        "continent": "Asia",
+        "country_code": 62,
+        "currency": {
+          "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+          "name": "Indonesian Rupiahs",
+          "currency_code": "IDR",
+          "currency_symbol": "Rp"
+        }
+      },
+      "state": null
+    },
+    "company": {
+      "id": "2a489ba4-e2cb-4943-ae5a-b4b4c417c981",
+      "name": "MyRobin Indonesia",
+      "date_founded": "2019-01-01",
+      "is_folded": false,
+      "employee_min_count": 11,
+      "employee_max_count": 50,
+      "pitch": "MyRobin Indonesia is an outsourcing service provider in Indonesia.",
+      "culture": "    <p>At MyRobin Indonesia, we are adaptable, energetic, open, passionate and collaborative.</p>\n\n    <p><b>Benefits and perks of working with us include:</b></p>\n\n    <p><b>Family benefits:</b> Paid maternity / paternity leave<br><b>Lifestyle:</b> Casual dress code, Flexible hours<br><b>Welfare:</b> Paid sick days<br></p>\n\n    \n  ",
+      "description": "MyRobin Indonesia is an outsourcing service provider in Indonesia.",
+      "business_models": [],
+      "entity": {
+        "id": "8c1fc0bc-5e9a-4577-8d26-44d59607916b",
+        "entityable_type": "company",
+        "entityable_id": "2a489ba4-e2cb-4943-ae5a-b4b4c417c981",
+        "slug": "myrobin-indonesia",
+        "claimed": 5,
+        "images": [
+          {
+            "id": "d444c0ce-9792-44ec-925e-8f4982ce6d53",
+            "url": "https://cdn.techinasia.com/data/images/9jxcZwoTBWYoJk4zgC71PQJp8MbzPlaUfCl59RdC.png",
+            "type": "avatar"
+          },
+          {
+            "id": "f6289c8b-82db-4e53-863d-107f40a6b7eb",
+            "url": "https://cdn.techinasia.com/data/images/RTGUdn2KxLQcGtalnstXXYAEQ6GMbTkDDymhXsDu.png",
+            "type": "avatar"
+          }
+        ],
+        "industries": [
+          {
+            "id": "71353c77-13ac-436c-83ae-ec0f73433c41",
+            "name": "Human Resource",
+            "slug": "human-resource",
+            "description": ""
+          }
+        ],
+        "locations": [
+          {
+            "id": "0525d036-8b5e-426e-90f5-7e322d8974e2",
+            "city": {
+              "id": "4bfed6fc-8ba2-48b5-b70b-c0050a3a9d41",
+              "name": "Jakarta",
+              "locode": "ID JKT"
+            },
+            "country": {
+              "id": "365832f3-641f-4f3a-b8c6-6932d1deb5fe",
+              "alpha2": "ID",
+              "alpha3": "IDN",
+              "name": "Indonesia",
+              "continent": "Asia",
+              "country_code": 62
+            },
+            "google_address": null,
+            "postal_code": null,
+            "address1": null,
+            "address2": null,
+            "type": "hq"
+          }
+        ],
+        "sites": [
+          {
+            "id": "b003b7bc-2b13-4a74-b178-9adbd532fe3c",
+            "site": {
+              "id": "12b8cf3d-4254-46fe-a0fd-b0778f6bf06a",
+              "name": "LinkedIn",
+              "company_order": 3,
+              "order": 1,
+              "prefix": "www.linkedin.com/in/",
+              "is_prefix_editable": true
+            },
+            "url": "https://www.linkedin.com/company/myrobinid"
+          },
+          {
+            "id": "7c98efee-e356-48f6-b027-768adf08b3b6",
+            "site": {
+              "id": "0dd8d02e-1255-492a-b484-150e47be1385",
+              "name": "Website",
+              "company_order": 1,
+              "order": 17,
+              "prefix": "",
+              "is_prefix_editable": true
+            },
+            "url": "http://myrobin.id"
+          }
+        ]
+      },
+      "is_jobs_premium": true
+    },
+    "contacts": [],
+    "currency": {
+      "id": "4886deb5-ba2b-4234-b7a2-f0776e1c9eb0",
+      "name": "Indonesian Rupiahs",
+      "currency_code": "IDR",
+      "currency_symbol": "Rp"
+    },
+    "job_skills": [
+      {
+        "id": "f6ce96f7-3b51-4867-bab4-5a50aabc4a8c",
+        "name": "Sales & Marketing"
+      },
+      {
+        "id": "04712876-6722-4d28-b857-8f39ef064379",
+        "name": "Business Development & Partnerships"
+      },
+      { "id": "504d702a-03fd-4e90-9794-580ccb1db342", "name": "Sales" },
+      { "id": "7199071d-c841-492d-ab94-b3dd199ffd06", "name": "Salesforce" },
+      {
+        "id": "dbfa1421-b3f9-4655-b86f-266862a2a41c",
+        "name": "Strategic Partnerships"
+      }
+    ],
+    "job_type": {
+      "id": "5124b71a-19ad-42ee-8779-de3433bf7f88",
+      "name": "Full-time",
+      "sequence": 1
+    },
+    "position": {
+      "id": "8f7f42f6-34c6-4dbe-a571-a0489d500bc0",
+      "description": "Explore 4,000+ jobs in Singapore, Malaysia, Hong Kong, and the rest of Asia for your next career opportunity at a tech startup. Find Sales & Business Development jobs here!",
+      "keywords": "sales & business development jobs, business development jobs in startups, sales job salary, business development job description, sales jobs in asia, business development jobs in start ups, sales & business development careers, hiring sales & business development roles, business development jobs asia, startup sales & business development jobs",
+      "name": "Sales & Business Development"
+    },
+    "taxonomies": []
+  }
+]
